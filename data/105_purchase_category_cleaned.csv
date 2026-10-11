@@ -1,0 +1,47 @@
+﻿period,category_clean,item_count,weighted_avg_price,pct
+평상시,Apparel/Men's,2130,43.47,17.05
+평상시,Sale,942,13.07,7.54
+평상시,Lifestyle,888,10.62,7.11
+평상시,Campus Collection,850,9.48,6.8
+평상시,Lifestyle/Small Goods,813,13.61,6.51
+평상시,Apparel/Hats,776,13.66,6.21
+평상시,Apparel,733,19.15,5.87
+평상시,Stationery,653,2.62,5.23
+평상시,기타/미분류,596,8.4,4.77
+평상시,Eco-Friendly,501,17.58,4.01
+평상시,Apparel/Kids,487,20.61,3.9
+평상시,Lifestyle/Drinkware,474,16.97,3.79
+평상시,Lifestyle/Bags,414,28.98,3.31
+평상시,Apparel/Women's,371,40.21,2.97
+평상시,Shop by Brand/Google,348,13.95,2.79
+평상시,Stationery/Notebooks,336,10.24,2.69
+평상시,Stationery/Writing,333,1.87,2.67
+평상시,New,251,19.17,2.01
+평상시,Shop by Brand/YouTube,190,15.17,1.52
+평상시,Stationery/Stickers,165,2.42,1.32
+평상시,Shop by Brand/Android,128,11.41,1.02
+평상시,Apparel/Socks,104,13.59,0.83
+평상시,Shop by Brand/#IamRemarkable,11,2.36,0.09
+하락구간,Apparel/Men's,602,41.55,17.16
+하락구간,Campus Collection,291,10.72,8.29
+하락구간,Sale,264,13.57,7.52
+하락구간,Lifestyle,259,13.21,7.38
+하락구간,Lifestyle/Small Goods,201,13.22,5.73
+하락구간,Shop by Brand/Google,171,11.48,4.87
+하락구간,Apparel/Hats,163,12.77,4.65
+하락구간,Stationery,161,2.76,4.59
+하락구간,Stationery/Writing,161,1.71,4.59
+하락구간,New,149,16.14,4.25
+하락구간,Lifestyle/Bags,140,41.12,3.99
+하락구간,Stationery/Notebooks,136,11.5,3.88
+하락구간,Eco-Friendly,129,14.93,3.68
+하락구간,Apparel,128,17.4,3.65
+하락구간,Apparel/Kids,123,19.4,3.51
+하락구간,Apparel/Women's,107,45.86,3.05
+하락구간,Lifestyle/Drinkware,96,17.4,2.74
+하락구간,기타/미분류,74,9.23,2.11
+하락구간,Shop by Brand/Android,59,8.75,1.68
+하락구간,Stationery/Stickers,44,2.41,1.25
+하락구간,Apparel/Socks,30,13.83,0.85
+하락구간,Shop by Brand/YouTube,17,16.18,0.48
+하락구간,Shop by Brand/#IamRemarkable,4,2.25,0.11

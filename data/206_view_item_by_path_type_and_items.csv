@@ -1,0 +1,10 @@
+﻿event_name,on_list_path,item_bucket,events
+add_to_cart,False,1~5개,3
+add_to_cart,False,6개 이상,11
+add_to_cart,True,1~5개,1358
+add_to_cart,True,6개 이상,38794
+view_item,False,0개,57753
+view_item,False,1~5개,10
+view_item,False,6개 이상,232
+view_item,True,1~5개,4711
+view_item,True,6개 이상,111907

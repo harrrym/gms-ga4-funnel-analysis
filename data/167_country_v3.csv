@@ -1,0 +1,290 @@
+﻿country,period,users,checkout_users,cart_to_checkout_rate
+United States,사후구간,2051,953,46.47
+India,사후구간,409,172,42.05
+Canada,사후구간,367,165,44.96
+United Kingdom,사후구간,138,61,44.2
+France,사후구간,85,36,42.35
+Spain,사후구간,82,42,51.22
+China,사후구간,75,28,37.33
+Taiwan,사후구간,72,33,45.83
+Singapore,사후구간,64,24,37.5
+Germany,사후구간,62,33,53.23
+South Korea,사후구간,61,34,55.74
+Netherlands,사후구간,58,32,55.17
+Japan,사후구간,58,26,44.83
+Italy,사후구간,57,27,47.37
+Brazil,사후구간,55,30,54.55
+Australia,사후구간,43,20,46.51
+Turkey,사후구간,42,17,40.48
+Mexico,사후구간,35,16,45.71
+Poland,사후구간,34,22,64.71
+(not set),사후구간,34,14,41.18
+Sweden,사후구간,31,13,41.94
+Indonesia,사후구간,30,10,33.33
+Ireland,사후구간,30,17,56.67
+Hong Kong,사후구간,28,15,53.57
+Colombia,사후구간,27,13,48.15
+Switzerland,사후구간,26,11,42.31
+Peru,사후구간,25,14,56.0
+Belgium,사후구간,24,11,45.83
+Malaysia,사후구간,24,9,37.5
+Russia,사후구간,22,4,18.18
+Vietnam,사후구간,21,6,28.57
+Israel,사후구간,20,10,50.0
+Greece,사후구간,19,7,36.84
+Thailand,사후구간,18,13,72.22
+Philippines,사후구간,18,8,44.44
+Denmark,사후구간,18,10,55.56
+Czechia,사후구간,17,10,58.82
+Pakistan,사후구간,17,11,64.71
+Austria,사후구간,16,9,56.25
+United Arab Emirates,사후구간,12,6,50.0
+Morocco,사후구간,11,2,18.18
+New Zealand,사후구간,10,5,50.0
+Argentina,사후구간,10,4,40.0
+Romania,사후구간,10,4,40.0
+Ukraine,사후구간,10,1,10.0
+Egypt,사후구간,10,2,20.0
+Sri Lanka,사후구간,9,3,33.33
+Bangladesh,사후구간,9,5,55.56
+Finland,사후구간,8,3,37.5
+Portugal,사후구간,8,2,25.0
+Saudi Arabia,사후구간,8,5,62.5
+Chile,사후구간,8,4,50.0
+Hungary,사후구간,7,3,42.86
+Nigeria,사후구간,7,5,71.43
+South Africa,사후구간,7,1,14.29
+Norway,사후구간,7,4,57.14
+Dominican Republic,사후구간,6,2,33.33
+Palestine,사후구간,6,4,66.67
+Ecuador,사후구간,6,3,50.0
+Iraq,사후구간,5,1,20.0
+Uruguay,사후구간,4,4,100.0
+Iceland,사후구간,4,1,25.0
+Serbia,사후구간,4,3,75.0
+Luxembourg,사후구간,4,1,25.0
+Algeria,사후구간,4,2,50.0
+Slovenia,사후구간,4,1,25.0
+Croatia,사후구간,4,2,50.0
+Bulgaria,사후구간,4,1,25.0
+Cyprus,사후구간,3,1,33.33
+El Salvador,사후구간,3,0,0.0
+Kazakhstan,사후구간,3,1,33.33
+Bolivia,사후구간,3,2,66.67
+Latvia,사후구간,3,1,33.33
+Costa Rica,사후구간,3,3,100.0
+Tunisia,사후구간,3,2,66.67
+Qatar,사후구간,2,1,50.0
+Albania,사후구간,2,2,100.0
+Puerto Rico,사후구간,2,1,50.0
+Jordan,사후구간,2,1,50.0
+Azerbaijan,사후구간,2,0,0.0
+Belarus,사후구간,2,1,50.0
+North Macedonia,사후구간,2,1,50.0
+Panama,사후구간,2,1,50.0
+Estonia,사후구간,1,0,0.0
+Slovakia,사후구간,1,0,0.0
+Bahamas,사후구간,1,1,100.0
+Macao,사후구간,1,0,0.0
+Georgia,사후구간,1,0,0.0
+Guatemala,사후구간,1,0,0.0
+Armenia,사후구간,1,1,100.0
+Kuwait,사후구간,1,0,0.0
+Paraguay,사후구간,1,0,0.0
+Venezuela,사후구간,1,1,100.0
+Lithuania,사후구간,1,0,0.0
+Kosovo,사후구간,1,1,100.0
+Myanmar (Burma),사후구간,1,0,0.0
+United States,평상시,1825,933,51.12
+India,평상시,391,194,49.62
+Canada,평상시,328,173,52.74
+United Kingdom,평상시,140,69,49.29
+China,평상시,82,45,54.88
+Spain,평상시,74,45,60.81
+France,평상시,73,40,54.79
+Taiwan,평상시,69,33,47.83
+Germany,평상시,66,37,56.06
+Japan,평상시,60,29,48.33
+Italy,평상시,55,25,45.45
+Singapore,평상시,52,23,44.23
+South Korea,평상시,51,27,52.94
+Turkey,평상시,46,29,63.04
+Australia,평상시,44,15,34.09
+Brazil,평상시,41,22,53.66
+Mexico,평상시,40,21,52.5
+Netherlands,평상시,37,17,45.95
+Poland,평상시,36,20,55.56
+(not set),평상시,32,16,50.0
+Russia,평상시,32,14,43.75
+Indonesia,평상시,32,14,43.75
+Malaysia,평상시,27,10,37.04
+Hong Kong,평상시,25,11,44.0
+Ireland,평상시,25,12,48.0
+Sweden,평상시,21,12,57.14
+Switzerland,평상시,20,10,50.0
+Ukraine,평상시,20,9,45.0
+Belgium,평상시,19,10,52.63
+Portugal,평상시,18,7,38.89
+Philippines,평상시,18,9,50.0
+Israel,평상시,18,8,44.44
+Denmark,평상시,17,7,41.18
+Colombia,평상시,16,8,50.0
+Greece,평상시,16,8,50.0
+Pakistan,평상시,14,6,42.86
+Vietnam,평상시,13,7,53.85
+Bangladesh,평상시,12,6,50.0
+Sri Lanka,평상시,12,3,25.0
+Thailand,평상시,12,6,50.0
+Norway,평상시,11,6,54.55
+Czechia,평상시,11,6,54.55
+Argentina,평상시,11,6,54.55
+Finland,평상시,10,6,60.0
+Saudi Arabia,평상시,10,2,20.0
+Peru,평상시,10,4,40.0
+Austria,평상시,7,2,28.57
+South Africa,평상시,7,5,71.43
+Hungary,평상시,7,2,28.57
+Dominican Republic,평상시,5,2,40.0
+Nigeria,평상시,5,3,60.0
+Romania,평상시,5,3,60.0
+New Zealand,평상시,4,2,50.0
+Serbia,평상시,4,3,75.0
+United Arab Emirates,평상시,4,2,50.0
+Slovakia,평상시,4,0,0.0
+Iraq,평상시,4,4,100.0
+Puerto Rico,평상시,4,2,50.0
+Tunisia,평상시,4,2,50.0
+Egypt,평상시,4,4,100.0
+Algeria,평상시,3,3,100.0
+Azerbaijan,평상시,3,1,33.33
+Ghana,평상시,3,1,33.33
+Croatia,평상시,3,2,66.67
+Kenya,평상시,3,1,33.33
+Uruguay,평상시,3,3,100.0
+Bulgaria,평상시,3,1,33.33
+Kuwait,평상시,3,3,100.0
+Morocco,평상시,3,1,33.33
+Malta,평상시,2,2,100.0
+Bosnia & Herzegovina,평상시,2,1,50.0
+Mongolia,평상시,2,1,50.0
+Slovenia,평상시,2,1,50.0
+Luxembourg,평상시,2,0,0.0
+Bahamas,평상시,2,2,100.0
+Guatemala,평상시,2,1,50.0
+Cyprus,평상시,2,1,50.0
+Bahrain,평상시,2,0,0.0
+Kazakhstan,평상시,2,0,0.0
+Paraguay,평상시,1,0,0.0
+Jamaica,평상시,1,0,0.0
+Belarus,평상시,1,1,100.0
+Nepal,평상시,1,1,100.0
+Lithuania,평상시,1,0,0.0
+Venezuela,평상시,1,1,100.0
+Costa Rica,평상시,1,0,0.0
+Jordan,평상시,1,0,0.0
+Chile,평상시,1,0,0.0
+Oman,평상시,1,0,0.0
+El Salvador,평상시,1,1,100.0
+Macao,평상시,1,1,100.0
+Georgia,평상시,1,0,0.0
+North Macedonia,평상시,1,0,0.0
+Honduras,평상시,1,0,0.0
+Palestine,평상시,1,0,0.0
+United States,하락구간,1727,611,35.38
+India,하락구간,362,128,35.36
+Canada,하락구간,298,115,38.59
+United Kingdom,하락구간,120,40,33.33
+Spain,하락구간,76,26,34.21
+France,하락구간,76,26,34.21
+China,하락구간,67,25,37.31
+Taiwan,하락구간,67,21,31.34
+Germany,하락구간,65,23,35.38
+Italy,하락구간,52,22,42.31
+Poland,하락구간,49,17,34.69
+South Korea,하락구간,46,17,36.96
+Singapore,하락구간,46,19,41.3
+Japan,하락구간,37,12,32.43
+Mexico,하락구간,37,11,29.73
+Australia,하락구간,35,15,42.86
+Netherlands,하락구간,34,17,50.0
+Turkey,하락구간,34,12,35.29
+Indonesia,하락구간,32,13,40.63
+Brazil,하락구간,31,14,45.16
+Russia,하락구간,25,11,44.0
+(not set),하락구간,24,9,37.5
+Ireland,하락구간,23,7,30.43
+Hong Kong,하락구간,23,8,34.78
+Colombia,하락구간,23,9,39.13
+Switzerland,하락구간,22,8,36.36
+Malaysia,하락구간,20,5,25.0
+Belgium,하락구간,18,4,22.22
+Greece,하락구간,17,4,23.53
+Peru,하락구간,17,8,47.06
+Portugal,하락구간,16,9,56.25
+Ukraine,하락구간,15,3,20.0
+Argentina,하락구간,15,6,40.0
+Vietnam,하락구간,15,4,26.67
+Philippines,하락구간,15,9,60.0
+Thailand,하락구간,15,5,33.33
+Sweden,하락구간,13,6,46.15
+Chile,하락구간,12,5,41.67
+Sri Lanka,하락구간,12,4,33.33
+United Arab Emirates,하락구간,12,5,41.67
+Israel,하락구간,11,2,18.18
+Denmark,하락구간,11,4,36.36
+Pakistan,하락구간,8,2,25.0
+Bangladesh,하락구간,8,2,25.0
+Austria,하락구간,8,6,75.0
+Saudi Arabia,하락구간,8,2,25.0
+Finland,하락구간,8,2,25.0
+Egypt,하락구간,8,2,25.0
+Romania,하락구간,7,3,42.86
+Croatia,하락구간,7,5,71.43
+Czechia,하락구간,7,3,42.86
+Algeria,하락구간,6,2,33.33
+Morocco,하락구간,6,1,16.67
+Norway,하락구간,6,2,33.33
+South Africa,하락구간,5,2,40.0
+Qatar,하락구간,5,0,0.0
+Dominican Republic,하락구간,4,1,25.0
+Bulgaria,하락구간,4,2,50.0
+Iraq,하락구간,4,1,25.0
+Lithuania,하락구간,4,2,50.0
+Kuwait,하락구간,4,2,50.0
+Slovenia,하락구간,4,2,50.0
+Slovakia,하락구간,4,0,0.0
+New Zealand,하락구간,4,1,25.0
+Puerto Rico,하락구간,3,2,66.67
+North Macedonia,하락구간,3,2,66.67
+Guatemala,하락구간,3,1,33.33
+Azerbaijan,하락구간,3,0,0.0
+Cambodia,하락구간,3,2,66.67
+Hungary,하락구간,3,1,33.33
+Kazakhstan,하락구간,3,1,33.33
+Costa Rica,하락구간,3,1,33.33
+El Salvador,하락구간,2,0,0.0
+Belarus,하락구간,2,2,100.0
+Jamaica,하락구간,2,0,0.0
+Serbia,하락구간,2,1,50.0
+Bahrain,하락구간,2,0,0.0
+Ecuador,하락구간,2,0,0.0
+Luxembourg,하락구간,2,2,100.0
+Mongolia,하락구간,2,0,0.0
+Oman,하락구간,2,0,0.0
+Paraguay,하락구간,1,1,100.0
+Venezuela,하락구간,1,1,100.0
+Jordan,하락구간,1,0,0.0
+Honduras,하락구간,1,0,0.0
+Macao,하락구간,1,0,0.0
+Nigeria,하락구간,1,0,0.0
+Georgia,하락구간,1,0,0.0
+Ghana,하락구간,1,1,100.0
+Estonia,하락구간,1,0,0.0
+Panama,하락구간,1,0,0.0
+Lebanon,하락구간,1,0,0.0
+Iceland,하락구간,1,0,0.0
+Uruguay,하락구간,1,0,0.0
+Bolivia,하락구간,1,1,100.0
+Albania,하락구간,1,1,100.0
+Trinidad & Tobago,하락구간,1,0,0.0
+Nepal,하락구간,1,0,0.0

@@ -1,0 +1,155 @@
+﻿kind,name,d,n,orders
+cart_item,gift card - $50.00,2020-12-22,2,1
+cart_item,gift card - $25.00,2020-12-10,4,1
+cart_item,gift card - $50.00,2020-12-15,10,2
+cart_item,gift card - $10.00,2020-12-08,,2
+cart_item,gift card - $25.00,2021-01-18,,1
+cart_item,gift card - $50.00,2021-01-18,,1
+cart_item,gift card - $25.00,2020-12-20,,1
+cart_item,gift card - $250.00,2020-12-22,,1
+cart_item,gift card - $25.00,2020-12-22,,1
+cart_item,gift card - $50.00,2021-01-05,,1
+cart_item,gift card - $10.00,2020-12-15,,2
+cart_item,gift card - $250.00,2020-12-15,,2
+cart_item,gift card - $25.00,2020-12-15,11,3
+cart_item,gift card - $50.00,2020-12-08,,2
+cart_item,gift card- $100.00,2020-12-08,1,1
+cart_item,gift card - $10.00,2021-01-18,,1
+cart_item,gift card - $25.00,2020-12-30,6,1
+cart_item,gift card - $250.00,2020-12-20,,1
+cart_item,gift card - $50.00,2020-12-28,,1
+cart_item,gift card - $25.00,2020-12-28,5,1
+cart_item,gift card - $250.00,2021-01-05,,1
+cart_item,gift card - $25.00,2021-01-05,1,1
+cart_item,gift card - $10.00,2021-01-05,,1
+cart_item,gift card - $25.00,2020-12-08,2,2
+cart_item,gift card - $250.00,2021-01-18,,1
+cart_item,gift card- $100.00,2021-01-18,20,1
+cart_item,gift card - $10.00,2020-12-20,,1
+cart_item,gift card - $50.00,2020-12-01,1,1
+cart_item,gift card - $250.00,2020-12-08,,2
+cart_item,gift card - $50.00,2020-12-20,2,1
+cart_item,gift card - $10.00,2020-12-22,,1
+cart_item,gift card - $10.00,2020-12-28,,1
+cart_item,gift card - $250.00,2020-12-28,,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-31,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-18,6,2
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-07,2,2
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2021-01-07,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-26,3,2
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2021-01-13,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2021-01-06,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-15,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-28,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-30,2,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-11-23,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-23,5,5
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-20,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-14,6,6
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-29,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-05,4,3
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-11-05,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-04,5,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-09,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-11,6,5
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-11-11,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-28,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-11,9,6
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-18,4,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-17,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-15,8,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-15,4,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-11-24,4,2
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card+10.00.axd,2020-12-07,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-07,13,10
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-09,15,11
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2020-12-09,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-08,13,13
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-03,9,8
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-07,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-25,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-19,3,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2021-01-05,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-17,4,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-12-30,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-29,11,3
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-06,4,2
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-27,4,3
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-23,2,2
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-11-23,4,3
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-21,4,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-01,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-20,8,4
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-01,3,3
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-14,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-16,3,3
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-21,17,6
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-11,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card+10.00.axd,2020-11-06,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-06,4,4
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-10,8,6
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-19,8,6
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-09,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-22,4,3
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-13,8,6
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-08,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-08,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-26,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-05,4,3
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-11-15,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-16,6,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-20,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-03,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-16,2,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-13,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-12-13,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-10,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-21,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-05,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-17,8,6
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-10,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-10,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-12,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-07,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-18,5,4
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-04,3,3
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-13,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-19,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-06,6,4
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-30,6,6
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-21,4,4
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-12,2,2
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-21,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++100.00.axd,2020-12-05,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-17,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-20,4,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2020-11-04,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-31,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-04,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card+10.00.axd,2021-01-20,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-12,3,2
+page_view_giftcard_path,/google+redesign/gift+cards,2020-12-04,6,4
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-18,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2020-11-24,1,1
+page_view_giftcard_path,/google redesign/gift cards,2020-11-18,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2021-01-05,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2021-01-20,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++50.00.axd,2020-12-04,2,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2020-12-18,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-11-06,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-12-10,6,2
+page_view_giftcard_path,/google redesign/gift cards,2020-12-12,1,1
+page_view_giftcard_path,/google/gift+cards,2020-11-13,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++25.00.axd,2020-11-25,1,1
+page_view_giftcard_path,/google+redesign/gift+cards/gift+card++250.00.axd,2021-01-22,1,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-17,2,1
+page_view_giftcard_path,/google+redesign/gift+cards,2021-01-22,3,1
+purchase_item,gift card - $25.00,2020-12-30,6,2
+purchase_item,gift card - $50.00,2020-12-22,2,1
+purchase_item,gift card- $100.00,2021-01-19,12,1
+purchase_item,gift card - $25.00,2020-12-10,28,4
+purchase_item,gift card - $50.00,2020-11-11,1,1
+purchase_item,gift card - $50.00,2020-12-20,2,1
+purchase_item,gift card - $25.00,2020-11-06,4,1
+purchase_item,gift card - $25.00,2020-12-08,2,1
+purchase_item,gift card - $25.00,2020-12-28,5,1

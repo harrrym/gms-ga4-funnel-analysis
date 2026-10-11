@@ -1,0 +1,2 @@
+﻿purchase_rows,rows_without_any_txn,distinct_txn_unified,duplicated_txn_ids,extra_rows,cross_type_duplicates,dup_with_multiple_users,dup_across_multiple_dates,dup_with_different_revenue,inflated_revenue_if_summed
+5692,450,4918,318,324,0,0,0,0,22020.0

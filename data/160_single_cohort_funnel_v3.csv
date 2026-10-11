@@ -1,0 +1,4 @@
+﻿period,cart_users,checkout_users,purchase_users,checkout_and_purchase,purchase_without_checkout,cart_to_checkout_rate,checkout_to_purchase_rate_within_cohort,cart_to_purchase_rate
+사후구간,4569,2092,1081,1081,0,45.79,51.67,23.66
+평상시,4123,2086,983,983,0,50.59,47.12,23.84
+하락구간,3853,1384,798,798,0,35.92,57.66,20.71

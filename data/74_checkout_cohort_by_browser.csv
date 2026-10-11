@@ -1,0 +1,13 @@
+﻿browser,period,users,checkout_users,cart_to_checkout_rate
+<Other>,평상시,232,118,50.86
+<Other>,하락구간,102,39,38.24
+Android Webview,평상시,128,64,50.0
+Android Webview,하락구간,52,19,36.54
+Chrome,평상시,5893,2815,47.77
+Chrome,하락구간,2661,965,36.26
+Edge,평상시,206,87,42.23
+Edge,하락구간,68,19,27.94
+Firefox,평상시,153,75,49.02
+Firefox,하락구간,63,19,30.16
+Safari,평상시,2080,1019,48.99
+Safari,하락구간,907,323,35.61

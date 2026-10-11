@@ -1,0 +1,32 @@
+﻿kind,k1,k2,n,n2
+purchase_variant,purchase,Single Option Only,9942,6067
+purchase_variant,purchase, RED,63,30
+purchase_variant,purchase, 3/6 MONTHS,13,13
+purchase_variant,purchase, 18/24 MONTHS,54,45
+purchase_variant,purchase, 6/12 MONTHS,17,17
+purchase_variant,purchase, 3T,39,37
+purchase_variant,purchase, 18M,1,1
+purchase_variant,purchase, MD,835,760
+purchase_variant,purchase, 12/18 MONTHS,11,10
+purchase_variant,purchase, NEWBORN,5,5
+purchase_variant,purchase, LG,675,615
+purchase_variant,purchase, 5/6T,35,34
+purchase_variant,purchase, XS,317,294
+purchase_variant,purchase, XL,555,517
+purchase_variant,purchase,(not set),,394
+purchase_variant,purchase, 4T,32,30
+purchase_variant,purchase, 2T,34,33
+fill,add_to_cart,,581680,28383
+purchase_variant,purchase, 2XL,175,163
+purchase_variant,purchase, 3XL,74,69
+purchase_variant,purchase, 6M,2,2
+purchase_variant,purchase, GREEN,44,23
+purchase_variant,purchase, 24M,2,2
+purchase_variant,purchase, XXS,1,1
+fill,begin_checkout,,70468,68550
+purchase_variant,purchase, SM,589,556
+purchase_variant,purchase, 12M,4,4
+purchase_variant,purchase, 5T,10,9
+purchase_variant,purchase, BLUE,61,28
+fill,view_item,,1825504,9892
+fill,purchase,,9759,9365

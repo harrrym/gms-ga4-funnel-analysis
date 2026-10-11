@@ -1,0 +1,47 @@
+﻿period,category_clean,item_count,weighted_avg_price,pct
+평상시,Apparel/Men's,7761.0,43.65673366834171,15.4
+평상시,Apparel/Hats,4627.0,13.41,9.18
+평상시,Sale,3539.0,12.299465950833568,7.02
+평상시,Lifestyle/Small Goods,3314.0,15.469523234761617,6.58
+평상시,Lifestyle,3259.0,11.9,6.47
+평상시,Campus Collection,2730.0,9.491666666666665,5.42
+평상시,Stationery,2495.0,2.91,4.95
+평상시,Apparel,2427.0,18.08514215080346,4.82
+평상시,Eco-Friendly,2416.0,18.62496688741722,4.79
+평상시,Lifestyle/Drinkware,2350.0,16.795599999999997,4.66
+평상시,기타/미분류,2266.0,8.596063548102384,4.5
+평상시,Lifestyle/Bags,2023.0,32.61213049925853,4.01
+평상시,Apparel/Kids,1730.0,21.82,3.43
+평상시,Stationery/Notebooks,1468.0,11.320000000000002,2.91
+평상시,Shop by Brand/Google,1450.0,11.480758620689656,2.88
+평상시,New,1391.0,20.36,2.76
+평상시,Stationery/Writing,1375.0,1.8,2.73
+평상시,Apparel/Women's,1297.0,37.84404780262144,2.57
+평상시,Shop by Brand/YouTube,764.0,25.55,1.52
+평상시,Stationery/Stickers,704.0,2.2,1.4
+평상시,Shop by Brand/Android,579.0,11.51,1.15
+평상시,Apparel/Socks,383.0,13.48,0.76
+평상시,Shop by Brand/#IamRemarkable,48.0,2.38,0.1
+하락구간,Apparel/Men's,4147.0,42.041511936339525,15.03
+하락구간,Campus Collection,2283.0,10.039176522120018,8.28
+하락구간,Lifestyle,2048.0,13.37,7.42
+하락구간,Sale,1880.0,13.442872340425533,6.82
+하락구간,Lifestyle/Small Goods,1700.0,13.43285294117647,6.16
+하락구간,Stationery,1527.0,3.01,5.54
+하락구간,Apparel/Hats,1398.0,12.72,5.07
+하락구간,New,1328.0,17.45,4.81
+하락구간,Stationery/Notebooks,1261.0,12.09,4.57
+하락구간,Stationery/Writing,1259.0,1.72,4.56
+하락구간,Shop by Brand/Google,1251.0,11.559520383693044,4.54
+하락구간,Lifestyle/Bags,1244.0,38.25188906752412,4.51
+하락구간,Eco-Friendly,1201.0,16.083280599500412,4.35
+하락구간,Apparel,903.0,17.628161683277963,3.27
+하락구간,Apparel/Kids,816.0,20.02,2.96
+하락구간,Lifestyle/Drinkware,801.0,18.33011235955056,2.9
+하락구간,Apparel/Women's,666.0,44.20846846846847,2.41
+하락구간,기타/미분류,510.0,26.50409803921569,1.85
+하락구간,Shop by Brand/Android,507.0,7.33,1.84
+하락구간,Stationery/Stickers,442.0,2.38,1.6
+하락구간,Shop by Brand/YouTube,181.0,14.89,0.66
+하락구간,Apparel/Socks,174.0,14.53,0.63
+하락구간,Shop by Brand/#IamRemarkable,57.0,2.11,0.21

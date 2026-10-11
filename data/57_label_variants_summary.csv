@@ -1,0 +1,7 @@
+﻿field,distinct_raw,distinct_normalized,merged_by_normalizing,null_values,empty_values,values_with_edge_whitespace
+device.category,3,3,0,0,0,0
+device.operating_system,6,6,0,0,0,0
+geo.continent,6,6,0,0,0,0
+geo.country,109,109,0,0,0,0
+traffic_source.medium,6,6,0,0,0,0
+traffic_source.source,5,5,0,0,0,0

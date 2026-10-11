@@ -1,0 +1,8 @@
+﻿operating_system,period,users,checkout_users,cart_to_checkout_rate
+Android,평상시,705,333,47.23
+Android,하락구간,325,120,36.92
+Web,평상시,1789,852,47.62
+Web,하락구간,809,294,36.34
+Windows,하락구간,1,0,0.0
+iOS,평상시,964,490,50.83
+iOS,하락구간,422,147,34.83

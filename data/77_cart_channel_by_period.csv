@@ -1,0 +1,11 @@
+﻿channel,period,users,checkout_users,cart_to_checkout_rate,pct_of_period_cart_users
+식별불가/기타,평상시,2959,1447,48.9,34.04
+google/organic,평상시,2602,1215,46.69,29.94
+direct,평상시,2042,975,47.75,23.49
+self-referral,평상시,727,375,51.58,8.36
+google/cpc,평상시,362,166,45.86,4.16
+식별불가/기타,하락구간,1304,467,35.81,33.84
+google/organic,하락구간,1179,415,35.2,30.6
+direct,하락구간,903,328,36.32,23.44
+self-referral,하락구간,315,122,38.73,8.18
+google/cpc,하락구간,152,52,34.21,3.94

@@ -1,0 +1,4 @@
+﻿txn_location,purchase_rows,rows_revenue_positive,rows_revenue_zero,revenue_sum,min_date,max_date
+string_value만,4786,4786,0,330348.0,2020-11-11,2021-01-30
+int_value만,456,456,0,31817.0,2020-11-01,2020-11-12
+transaction_id 파라미터 없음,450,0,450,0.0,2020-11-10,2021-01-31

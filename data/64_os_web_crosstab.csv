@@ -1,0 +1,15 @@
+﻿device_category,operating_system,events,users,pct_within_category
+desktop,Web,1571959,100853,62.92
+desktop,Windows,497415,32017,19.91
+desktop,Macintosh,318965,20663,12.77
+desktop,<Other>,109991,6979,4.4
+mobile,Web,883621,56759,51.85
+mobile,iOS,471216,30257,27.65
+mobile,Android,348889,22992,20.47
+mobile,<Other>,328,31,0.02
+mobile,Windows,15,2,0.0
+tablet,Web,50267,3360,53.94
+tablet,iOS,27433,1867,29.44
+tablet,Android,15222,1008,16.34
+tablet,Windows,259,17,0.28
+tablet,<Other>,4,1,0.0

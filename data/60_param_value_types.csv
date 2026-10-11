@@ -1,0 +1,5 @@
+﻿key,n,in_string_value,in_int_value,in_float_value,in_double_value,in_none
+event_date: 8자리 숫자 형식이 아닌 행 수,0,,,,,
+ga_session_id,4295584,0,4295584,0,0,0
+ga_session_number,4295584,0,4295584,0,0,0
+transaction_id,5242,4786,456,0,0,0

@@ -1,0 +1,5 @@
+﻿period,checkout_events,purchase_after,event_level_rate
+블프구간,3092,1856,60.03
+사후구간,8483,5242,61.79
+평상시,16195,8869,54.76
+하락구간,10987,7173,65.29

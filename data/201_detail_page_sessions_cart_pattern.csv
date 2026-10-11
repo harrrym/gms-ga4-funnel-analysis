@@ -1,0 +1,3 @@
+﻿has_detail,sessions,sessions_with_view_item,sessions_with_cart,sessions_with_purchase,cart_only_before_detail,cart_after_detail_sessions,cart_after_detail_on_list_sessions,sessions_with_cart_on_nonlist
+False,121646,11824,4115,620,4115,0,0,2
+True,41157,22416,5647,1725,1823,3824,3816,9

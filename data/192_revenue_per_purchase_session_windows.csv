@@ -1,0 +1,5 @@
+﻿period,purchase_sessions_all,purchase_sessions_valid,revenue_total,revenue_per_valid_session
+1 기준선,1236,1183,90041.0,76.11
+2 전환,491,478,42682.0,89.29
+3 하락,618,595,39669.0,66.67
+4 회복기,886,627,43474.0,69.34

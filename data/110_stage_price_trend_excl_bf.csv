@@ -1,0 +1,10 @@
+﻿event_name,period,row_count,avg_price
+add_to_cart,블프구간,71471,24.71
+add_to_cart,평상시(블프제외),349451,25.79
+add_to_cart,하락구간,246504,25.53
+begin_checkout,블프구간,7512,19.59
+begin_checkout,평상시(블프제외),42884,19.89
+begin_checkout,하락구간,27584,18.87
+view_item,블프구간,296984,25.91
+view_item,평상시(블프제외),1716899,26.69
+view_item,하락구간,734363,26.47

@@ -1,0 +1,10 @@
+﻿field,total_events,null_cnt,empty_cnt,placeholder_cnt,missing_pct
+traffic_source.source,4295584,0,0,1439708,33.516
+traffic_source.medium,4295584,0,0,911399,21.217
+device.operating_system,4295584,0,0,110323,2.568
+geo.country,4295584,0,0,32208,0.75
+user_pseudo_id,4295584,0,0,0,0.0
+event_timestamp,4295584,0,0,0,0.0
+device.category,4295584,0,0,0,0.0
+ga_session_id,4295584,0,0,0,0.0
+ga_session_number,4295584,0,0,0,0.0

@@ -1,0 +1,867 @@
+﻿session_date,device_category,browser,s1_sessions,s2_sessions
+2021-01-31,mobile,Chrome,111,23
+2021-01-31,desktop,Chrome,280,55
+2021-01-31,mobile,Safari,102,21
+2021-01-31,tablet,Safari,3,1
+2021-01-31,mobile,<Other>,9,2
+2021-01-31,desktop,Safari,25,3
+2021-01-31,desktop,Edge,12,4
+2021-01-31,mobile,Android Webview,6,2
+2021-01-31,desktop,Firefox,13,2
+2021-01-31,desktop,<Other>,2,1
+2021-01-31,tablet,Chrome,6,1
+2021-01-31,tablet,Android Webview,0,0
+2021-01-31,tablet,<Other>,1,0
+2021-01-01,desktop,Chrome,167,34
+2021-01-01,mobile,Chrome,52,16
+2021-01-01,mobile,Safari,61,15
+2021-01-01,desktop,Safari,12,1
+2021-01-01,mobile,<Other>,5,1
+2021-01-01,mobile,Android Webview,8,3
+2021-01-01,desktop,Firefox,3,1
+2021-01-01,desktop,<Other>,1,0
+2021-01-01,desktop,Edge,5,1
+2021-01-01,tablet,Chrome,5,1
+2021-01-01,tablet,Android Webview,0,0
+2021-01-01,tablet,Safari,3,0
+2020-12-25,mobile,Safari,63,15
+2020-12-25,desktop,Chrome,178,39
+2020-12-25,mobile,<Other>,7,2
+2020-12-25,mobile,Chrome,67,18
+2020-12-25,tablet,Chrome,7,3
+2020-12-25,desktop,<Other>,1,0
+2020-12-25,desktop,Safari,17,3
+2020-12-25,desktop,Edge,6,3
+2020-12-25,tablet,Safari,3,0
+2020-12-24,desktop,Chrome,234,51
+2020-12-25,mobile,Android Webview,5,2
+2020-12-25,desktop,Firefox,6,2
+2021-01-24,desktop,Chrome,329,57
+2021-01-24,desktop,Safari,26,5
+2021-01-24,desktop,Edge,20,4
+2021-01-24,mobile,Chrome,111,28
+2021-01-24,mobile,Android Webview,6,0
+2021-01-24,mobile,Safari,106,25
+2021-01-24,desktop,Firefox,14,2
+2021-01-24,desktop,<Other>,3,2
+2021-01-24,tablet,Chrome,16,2
+2021-01-24,mobile,<Other>,8,2
+2021-01-24,tablet,Safari,2,1
+2021-01-23,mobile,Chrome,135,20
+2020-12-31,mobile,Safari,68,22
+2020-12-31,desktop,Chrome,192,56
+2020-12-31,mobile,Android Webview,9,0
+2020-12-31,mobile,Chrome,60,16
+2020-12-31,desktop,Safari,23,3
+2020-12-31,tablet,<Other>,3,1
+2020-12-31,desktop,Firefox,6,3
+2020-12-31,tablet,Chrome,4,1
+2020-12-31,mobile,<Other>,7,1
+2020-12-31,tablet,Safari,4,1
+2020-12-31,desktop,Edge,7,1
+2020-12-30,desktop,Chrome,239,53
+2020-12-31,desktop,<Other>,1,0
+2020-12-30,mobile,Chrome,110,30
+2021-01-23,desktop,Edge,17,5
+2021-01-23,desktop,Chrome,354,72
+2021-01-23,desktop,Safari,29,6
+2021-01-23,mobile,<Other>,13,3
+2021-01-23,desktop,Firefox,9,2
+2021-01-23,mobile,Safari,144,33
+2021-01-23,tablet,Chrome,13,6
+2021-01-23,tablet,<Other>,1,0
+2021-01-23,desktop,<Other>,7,3
+2021-01-23,mobile,Android Webview,12,2
+2021-01-22,desktop,Chrome,591,128
+2021-01-23,tablet,Safari,8,1
+2020-12-20,desktop,Chrome,291,76
+2020-12-20,mobile,Safari,108,26
+2020-12-20,mobile,Chrome,89,21
+2020-12-20,desktop,Safari,34,7
+2020-12-20,mobile,Firefox,1,0
+2020-12-20,desktop,Edge,7,3
+2020-12-20,mobile,Android Webview,4,1
+2020-12-20,desktop,Firefox,4,2
+2020-12-20,tablet,Safari,3,0
+2020-12-20,mobile,<Other>,7,1
+2020-12-19,mobile,Chrome,137,36
+2020-12-20,tablet,Chrome,5,2
+2020-12-20,desktop,<Other>,4,2
+2020-12-20,tablet,<Other>,1,0
+2021-01-02,desktop,Chrome,214,42
+2021-01-02,mobile,Chrome,72,15
+2021-01-02,mobile,Safari,64,11
+2021-01-02,desktop,Safari,19,2
+2021-01-02,desktop,Edge,6,0
+2021-01-02,mobile,Android Webview,3,2
+2021-01-02,desktop,Firefox,8,1
+2021-01-02,desktop,<Other>,2,0
+2021-01-02,tablet,Safari,8,1
+2021-01-02,tablet,Android Webview,1,0
+2021-01-02,tablet,Chrome,1,1
+2021-01-02,mobile,<Other>,6,0
+2021-01-02,tablet,<Other>,3,1
+2020-12-28,mobile,Chrome,96,19
+2020-12-28,tablet,Safari,3,0
+2020-12-28,desktop,Chrome,263,76
+2020-12-28,mobile,<Other>,13,2
+2020-12-28,desktop,Safari,29,5
+2020-12-28,mobile,Safari,101,26
+2020-12-28,desktop,Edge,14,4
+2020-12-28,desktop,Firefox,4,1
+2020-12-28,mobile,Android Webview,11,3
+2020-12-28,tablet,Chrome,3,1
+2020-12-28,desktop,<Other>,2,0
+2020-12-28,tablet,Android Webview,0,0
+2020-12-26,desktop,Chrome,205,44
+2020-12-26,mobile,Chrome,78,18
+2020-12-26,mobile,Safari,72,16
+2020-12-26,desktop,Safari,19,2
+2020-12-26,mobile,Android Webview,7,2
+2020-12-26,desktop,<Other>,2,0
+2020-12-26,mobile,<Other>,5,1
+2020-12-26,tablet,Chrome,4,0
+2020-12-26,desktop,Firefox,3,1
+2020-12-26,tablet,<Other>,0,0
+2020-12-26,desktop,Edge,11,1
+2020-12-26,tablet,Safari,3,0
+2020-12-26,mobile,Firefox,1,0
+2021-01-07,mobile,Firefox,0,0
+2021-01-07,desktop,Edge,13,2
+2021-01-07,mobile,Chrome,154,41
+2021-01-07,desktop,Safari,31,7
+2021-01-07,desktop,Chrome,387,98
+2021-01-07,mobile,Safari,122,37
+2021-01-07,tablet,Chrome,17,2
+2021-01-07,tablet,Safari,8,2
+2021-01-07,desktop,Firefox,19,5
+2021-01-07,desktop,<Other>,5,1
+2021-01-07,mobile,<Other>,11,1
+2021-01-07,mobile,Android Webview,3,0
+2021-01-07,tablet,<Other>,1,0
+2021-01-06,desktop,Chrome,413,120
+2021-01-25,desktop,Safari,55,9
+2021-01-25,desktop,Chrome,443,75
+2021-01-25,mobile,Chrome,173,31
+2021-01-25,mobile,Safari,188,31
+2021-01-25,desktop,Firefox,18,3
+2021-01-25,desktop,<Other>,6,0
+2021-01-25,desktop,Edge,26,6
+2021-01-25,tablet,<Other>,0,0
+2021-01-25,mobile,<Other>,10,2
+2021-01-25,tablet,Safari,5,2
+2021-01-25,mobile,Android Webview,12,2
+2021-01-25,tablet,Chrome,12,2
+2021-01-25,mobile,Firefox,0,0
+2021-01-03,desktop,Chrome,203,36
+2021-01-03,desktop,Edge,14,1
+2021-01-03,mobile,Chrome,87,8
+2021-01-03,desktop,Firefox,5,2
+2021-01-03,mobile,Safari,73,15
+2021-01-03,tablet,Safari,3,1
+2021-01-03,desktop,<Other>,2,0
+2021-01-03,desktop,Safari,17,3
+2021-01-03,mobile,Android Webview,10,3
+2021-01-03,mobile,<Other>,2,1
+2021-01-03,tablet,Android Webview,2,0
+2021-01-03,tablet,<Other>,1,0
+2021-01-03,tablet,Chrome,1,1
+2021-01-30,desktop,Chrome,303,62
+2021-01-30,tablet,Chrome,9,3
+2021-01-30,mobile,Safari,106,19
+2021-01-30,tablet,Safari,7,2
+2021-01-30,desktop,<Other>,5,2
+2021-01-30,mobile,Chrome,106,22
+2021-01-30,desktop,Edge,13,4
+2021-01-30,desktop,Safari,26,8
+2021-01-30,mobile,Android Webview,9,2
+2021-01-30,desktop,Firefox,6,2
+2021-01-30,mobile,<Other>,16,2
+2021-01-30,mobile,Firefox,0,0
+2021-01-10,mobile,Safari,88,15
+2021-01-10,mobile,Chrome,92,17
+2021-01-10,desktop,Chrome,201,46
+2021-01-10,desktop,Safari,19,4
+2021-01-10,tablet,Safari,4,0
+2021-01-10,mobile,<Other>,7,3
+2021-01-10,desktop,Edge,11,0
+2021-01-10,tablet,Android Webview,1,0
+2021-01-10,mobile,Android Webview,3,0
+2021-01-10,desktop,Firefox,9,0
+2021-01-10,tablet,Chrome,9,4
+2021-01-10,desktop,<Other>,6,3
+2021-01-10,mobile,Firefox,0,0
+2021-01-09,desktop,Chrome,263,55
+2021-01-16,desktop,Chrome,236,66
+2021-01-16,mobile,Safari,108,26
+2021-01-16,mobile,Chrome,110,26
+2021-01-16,mobile,<Other>,4,1
+2021-01-16,desktop,Safari,30,3
+2021-01-16,tablet,Chrome,4,1
+2021-01-16,desktop,Firefox,8,1
+2021-01-15,mobile,Chrome,131,37
+2021-01-16,desktop,Edge,11,5
+2021-01-16,desktop,<Other>,6,0
+2021-01-16,tablet,<Other>,1,0
+2021-01-16,mobile,Firefox,3,1
+2021-01-16,mobile,Android Webview,5,1
+2021-01-15,desktop,Chrome,341,87
+2021-01-16,tablet,Safari,7,0
+2021-01-18,mobile,Safari,92,19
+2021-01-18,desktop,Chrome,256,58
+2021-01-18,mobile,Chrome,97,23
+2021-01-18,desktop,Edge,11,3
+2021-01-18,desktop,Safari,27,5
+2021-01-18,mobile,Android Webview,9,7
+2021-01-18,tablet,Chrome,2,1
+2021-01-18,mobile,<Other>,5,2
+2021-01-18,desktop,<Other>,2,0
+2021-01-18,desktop,Firefox,11,2
+2021-01-18,tablet,Android Webview,0,0
+2021-01-18,mobile,Firefox,2,1
+2021-01-18,tablet,Safari,6,1
+2020-12-24,mobile,Safari,92,24
+2020-12-24,desktop,<Other>,2,0
+2020-12-24,mobile,Chrome,88,24
+2020-12-24,desktop,Safari,16,1
+2020-12-24,desktop,Edge,11,5
+2020-12-24,tablet,Safari,3,1
+2020-12-24,mobile,Android Webview,6,1
+2020-12-24,mobile,<Other>,6,1
+2020-12-23,mobile,Chrome,129,45
+2020-12-24,desktop,Firefox,11,2
+2020-12-24,tablet,Chrome,8,3
+2020-12-24,mobile,Firefox,0,0
+2021-01-09,mobile,Chrome,85,19
+2021-01-09,mobile,Safari,96,27
+2021-01-09,mobile,Android Webview,6,3
+2021-01-09,desktop,Edge,8,1
+2021-01-08,desktop,Chrome,331,89
+2021-01-09,tablet,Chrome,9,2
+2021-01-09,desktop,Safari,30,6
+2021-01-09,desktop,Firefox,13,4
+2021-01-09,mobile,<Other>,6,2
+2021-01-09,tablet,Safari,2,0
+2021-01-09,tablet,Android Webview,0,0
+2021-01-09,desktop,<Other>,3,1
+2021-01-08,mobile,Safari,132,34
+2021-01-27,mobile,Safari,213,51
+2021-01-27,mobile,Chrome,231,60
+2021-01-27,desktop,Chrome,588,125
+2021-01-27,desktop,Safari,51,7
+2021-01-27,desktop,Edge,32,6
+2021-01-27,tablet,Safari,7,1
+2021-01-27,mobile,<Other>,24,10
+2021-01-27,desktop,Firefox,15,6
+2021-01-27,tablet,<Other>,4,1
+2021-01-27,mobile,Android Webview,15,5
+2021-01-27,tablet,Chrome,10,4
+2021-01-27,desktop,<Other>,8,2
+2021-01-27,mobile,Firefox,0,0
+2020-12-30,mobile,Safari,95,30
+2020-12-30,desktop,<Other>,3,1
+2020-12-30,desktop,Safari,26,6
+2020-12-30,tablet,Safari,8,3
+2020-12-30,desktop,Edge,9,0
+2020-12-30,desktop,Firefox,7,0
+2020-12-30,mobile,<Other>,6,1
+2020-12-30,mobile,Android Webview,4,1
+2020-12-30,tablet,Chrome,9,1
+2020-12-29,desktop,Chrome,260,71
+2021-01-17,desktop,Chrome,227,50
+2021-01-17,tablet,Chrome,7,1
+2021-01-17,desktop,Safari,17,3
+2021-01-17,mobile,Safari,73,15
+2021-01-17,mobile,Chrome,86,22
+2021-01-17,mobile,<Other>,9,4
+2021-01-17,mobile,Firefox,3,1
+2021-01-17,desktop,Firefox,7,0
+2021-01-17,desktop,Edge,9,2
+2021-01-17,mobile,Android Webview,6,0
+2021-01-17,desktop,<Other>,2,0
+2021-01-17,tablet,<Other>,4,3
+2021-01-17,tablet,Safari,5,0
+2021-01-11,mobile,Safari,133,32
+2021-01-11,desktop,Chrome,316,80
+2021-01-11,mobile,Android Webview,11,1
+2021-01-11,mobile,<Other>,13,3
+2021-01-11,mobile,Chrome,130,38
+2021-01-11,tablet,Safari,6,1
+2021-01-11,desktop,Safari,35,9
+2021-01-11,tablet,Chrome,8,1
+2021-01-11,tablet,<Other>,1,0
+2021-01-11,desktop,Edge,19,4
+2021-01-11,desktop,Firefox,6,1
+2021-01-11,tablet,Android Webview,0,0
+2021-01-11,desktop,<Other>,5,4
+2021-01-06,mobile,Safari,127,21
+2021-01-06,tablet,Chrome,4,2
+2021-01-06,mobile,Chrome,152,39
+2021-01-06,tablet,Safari,6,1
+2021-01-06,desktop,Edge,14,3
+2021-01-06,desktop,Safari,36,6
+2021-01-06,desktop,<Other>,9,0
+2021-01-06,desktop,Firefox,12,3
+2021-01-06,mobile,<Other>,18,5
+2021-01-06,mobile,Android Webview,9,1
+2021-01-05,desktop,Chrome,351,90
+2021-01-05,mobile,Chrome,130,31
+2021-01-06,mobile,Firefox,0,0
+2021-01-06,tablet,<Other>,1,0
+2021-01-06,tablet,Android Webview,3,2
+2021-01-05,desktop,Edge,13,1
+2021-01-05,desktop,Safari,31,10
+2021-01-05,mobile,Safari,120,26
+2021-01-05,desktop,Firefox,16,5
+2021-01-05,mobile,Android Webview,8,3
+2021-01-05,mobile,Firefox,2,0
+2021-01-04,desktop,Chrome,252,52
+2021-01-05,mobile,<Other>,9,2
+2021-01-04,mobile,Chrome,96,22
+2021-01-05,tablet,Android Webview,0,0
+2021-01-05,tablet,Chrome,6,0
+2021-01-05,tablet,Safari,11,1
+2021-01-05,desktop,<Other>,5,1
+2021-01-04,desktop,Firefox,7,1
+2021-01-04,mobile,Safari,99,20
+2020-12-21,mobile,Chrome,151,36
+2020-12-21,desktop,Chrome,405,117
+2020-12-21,desktop,Safari,38,8
+2020-12-21,tablet,Safari,11,2
+2020-12-21,desktop,Firefox,17,2
+2020-12-21,mobile,Safari,147,45
+2020-12-21,mobile,<Other>,17,3
+2020-12-21,tablet,<Other>,1,0
+2020-12-21,desktop,Edge,13,4
+2020-12-21,mobile,Android Webview,10,3
+2020-12-21,tablet,Chrome,8,5
+2020-12-21,desktop,<Other>,4,3
+2021-01-13,mobile,Safari,149,39
+2021-01-13,desktop,Chrome,398,105
+2021-01-13,desktop,Safari,27,9
+2021-01-13,mobile,Chrome,134,29
+2021-01-13,desktop,Firefox,12,2
+2021-01-13,mobile,<Other>,12,5
+2021-01-13,desktop,Edge,11,4
+2021-01-13,tablet,Safari,2,1
+2021-01-13,tablet,Chrome,7,0
+2021-01-13,mobile,Android Webview,13,4
+2021-01-13,mobile,Firefox,1,1
+2021-01-13,desktop,<Other>,8,2
+2021-01-13,tablet,<Other>,0,0
+2021-01-12,desktop,Safari,36,6
+2020-12-27,desktop,Chrome,202,49
+2020-12-27,mobile,Chrome,65,20
+2020-12-27,mobile,Safari,84,25
+2020-12-27,desktop,Edge,3,1
+2020-12-27,desktop,Safari,23,5
+2020-12-27,mobile,<Other>,6,4
+2020-12-27,mobile,Android Webview,7,2
+2020-12-27,tablet,Safari,6,1
+2020-12-27,desktop,<Other>,5,1
+2020-12-27,tablet,<Other>,1,0
+2020-12-27,desktop,Firefox,8,1
+2020-12-27,tablet,Chrome,2,1
+2021-01-14,desktop,Chrome,423,117
+2021-01-14,desktop,Safari,36,7
+2021-01-14,mobile,Safari,137,37
+2021-01-14,mobile,Chrome,155,43
+2021-01-14,desktop,Edge,21,6
+2021-01-14,mobile,<Other>,14,4
+2021-01-14,tablet,Chrome,12,3
+2021-01-14,tablet,<Other>,2,1
+2021-01-14,tablet,Safari,9,1
+2021-01-14,desktop,Firefox,19,5
+2021-01-14,desktop,<Other>,9,2
+2021-01-14,mobile,Android Webview,10,3
+2021-01-22,mobile,Chrome,185,50
+2021-01-22,desktop,Safari,62,18
+2021-01-22,desktop,Edge,23,8
+2021-01-22,mobile,<Other>,21,4
+2021-01-22,mobile,Safari,224,46
+2021-01-22,mobile,Android Webview,8,2
+2021-01-22,tablet,Chrome,9,1
+2021-01-22,desktop,<Other>,5,2
+2021-01-22,desktop,Firefox,16,1
+2021-01-21,mobile,Safari,257,47
+2021-01-21,desktop,Safari,75,12
+2021-01-22,tablet,<Other>,3,2
+2021-01-22,tablet,Safari,6,0
+2021-01-21,desktop,Chrome,681,132
+2021-01-21,desktop,Edge,35,4
+2020-12-06,desktop,Chrome,364,133
+2020-12-06,mobile,Chrome,138,46
+2020-12-06,desktop,Safari,32,17
+2020-12-06,desktop,Edge,15,8
+2020-12-06,mobile,Safari,148,57
+2020-12-06,mobile,<Other>,13,4
+2020-12-06,desktop,Firefox,19,4
+2020-12-06,tablet,<Other>,1,1
+2020-12-06,tablet,Safari,9,3
+2020-12-06,tablet,Chrome,9,2
+2020-12-06,mobile,Android Webview,12,7
+2020-12-06,desktop,<Other>,7,4
+2020-12-05,mobile,Safari,168,53
+2020-12-05,desktop,Chrome,403,167
+2020-12-19,mobile,Safari,143,52
+2020-12-19,desktop,Chrome,322,86
+2020-12-19,desktop,Firefox,23,8
+2020-12-19,desktop,Safari,38,8
+2020-12-19,tablet,Chrome,6,1
+2020-12-19,tablet,Safari,4,0
+2020-12-19,desktop,Edge,18,6
+2020-12-19,mobile,Android Webview,12,3
+2020-12-19,mobile,<Other>,20,5
+2020-12-19,desktop,<Other>,4,2
+2020-12-19,tablet,<Other>,2,0
+2020-12-19,mobile,Firefox,0,0
+2020-12-18,desktop,Chrome,521,169
+2021-01-29,desktop,Chrome,459,98
+2021-01-29,mobile,Chrome,161,33
+2021-01-29,desktop,Firefox,6,1
+2021-01-29,mobile,Safari,138,30
+2021-01-29,desktop,Edge,17,4
+2021-01-29,mobile,Android Webview,10,4
+2021-01-29,tablet,Chrome,12,3
+2021-01-29,desktop,Safari,50,12
+2021-01-29,desktop,<Other>,9,2
+2021-01-29,mobile,<Other>,10,2
+2021-01-29,tablet,Safari,10,1
+2021-01-28,mobile,Chrome,169,34
+2021-01-29,tablet,<Other>,5,0
+2021-01-26,desktop,Chrome,449,89
+2021-01-26,mobile,Safari,202,36
+2021-01-26,mobile,Chrome,173,32
+2021-01-26,desktop,Firefox,14,1
+2021-01-26,mobile,Android Webview,10,2
+2021-01-26,desktop,Safari,45,2
+2021-01-26,mobile,<Other>,22,3
+2021-01-26,desktop,Edge,23,6
+2021-01-26,tablet,Chrome,14,1
+2021-01-26,tablet,Safari,7,1
+2021-01-26,desktop,<Other>,4,1
+2021-01-26,tablet,<Other>,2,0
+2020-12-04,desktop,Chrome,605,194
+2020-12-04,mobile,Safari,237,94
+2020-12-04,mobile,<Other>,26,9
+2020-12-04,mobile,Chrome,194,70
+2020-12-04,desktop,Safari,40,19
+2020-12-04,desktop,Edge,25,10
+2020-12-04,tablet,Safari,11,4
+2020-12-04,desktop,Firefox,20,7
+2020-12-04,desktop,<Other>,11,4
+2020-12-03,desktop,Chrome,655,207
+2020-12-04,tablet,Chrome,10,3
+2020-12-04,mobile,Firefox,1,1
+2020-12-04,mobile,Android Webview,14,8
+2021-01-15,desktop,Edge,13,3
+2021-01-15,desktop,Firefox,11,2
+2021-01-15,mobile,<Other>,17,4
+2021-01-15,mobile,Safari,141,37
+2021-01-15,tablet,Chrome,8,1
+2021-01-15,mobile,Android Webview,9,3
+2021-01-15,desktop,Safari,31,7
+2021-01-15,desktop,<Other>,3,1
+2021-01-15,tablet,Safari,9,2
+2021-01-15,tablet,Android Webview,1,0
+2021-01-15,tablet,<Other>,2,1
+2021-01-19,desktop,Chrome,388,90
+2021-01-19,mobile,Chrome,160,45
+2021-01-19,mobile,Safari,160,35
+2021-01-19,tablet,Safari,14,5
+2021-01-19,mobile,Android Webview,12,4
+2021-01-19,desktop,Firefox,14,2
+2021-01-19,desktop,Safari,38,8
+2021-01-19,desktop,Edge,15,2
+2021-01-19,tablet,Chrome,13,2
+2021-01-19,mobile,<Other>,14,2
+2021-01-19,desktop,<Other>,7,2
+2021-01-19,tablet,Android Webview,0,0
+2021-01-12,desktop,Chrome,425,105
+2021-01-12,mobile,Safari,168,36
+2021-01-12,desktop,Edge,12,1
+2021-01-12,desktop,Firefox,19,5
+2021-01-12,mobile,Chrome,146,30
+2021-01-12,mobile,Android Webview,6,2
+2021-01-12,tablet,Safari,10,4
+2021-01-12,tablet,<Other>,2,0
+2021-01-12,desktop,<Other>,6,0
+2021-01-12,mobile,<Other>,11,0
+2021-01-12,tablet,Chrome,6,1
+2021-01-12,mobile,Edge,0,0
+2021-01-12,tablet,Android Webview,1,0
+2020-12-01,desktop,Chrome,609,243
+2020-12-01,desktop,Safari,58,27
+2020-12-01,mobile,Safari,252,107
+2020-12-01,mobile,Chrome,228,83
+2020-12-01,tablet,Chrome,20,7
+2020-12-01,mobile,<Other>,20,9
+2020-12-01,desktop,Edge,27,10
+2020-12-01,tablet,Safari,7,3
+2020-12-01,mobile,Android Webview,18,8
+2020-12-01,desktop,Firefox,28,9
+2020-12-01,desktop,<Other>,4,1
+2020-12-01,tablet,Android Webview,2,0
+2020-12-01,tablet,<Other>,1,1
+2020-12-03,mobile,Android Webview,17,5
+2020-12-03,mobile,Safari,249,85
+2020-12-03,desktop,Safari,73,25
+2020-12-03,mobile,Chrome,234,81
+2020-12-03,desktop,Firefox,32,11
+2020-12-03,desktop,Edge,27,15
+2020-12-03,mobile,<Other>,26,9
+2020-12-02,desktop,Chrome,605,217
+2020-12-03,tablet,Safari,13,6
+2020-12-03,mobile,Firefox,1,0
+2020-12-03,desktop,<Other>,6,2
+2020-12-02,mobile,Safari,221,79
+2020-12-02,mobile,Chrome,186,66
+2020-12-02,desktop,Safari,55,15
+2020-12-03,tablet,Chrome,22,8
+2020-12-03,tablet,<Other>,0,0
+2020-12-29,mobile,Chrome,117,27
+2020-12-29,mobile,Safari,78,22
+2020-12-29,desktop,Edge,13,3
+2020-12-29,tablet,Chrome,10,3
+2020-12-29,mobile,<Other>,8,3
+2020-12-29,desktop,Safari,20,4
+2020-12-29,desktop,Firefox,4,2
+2020-12-29,desktop,<Other>,5,2
+2020-12-29,mobile,Android Webview,4,1
+2020-12-29,tablet,Safari,10,2
+2020-12-29,tablet,<Other>,1,0
+2021-01-21,mobile,<Other>,17,0
+2021-01-21,mobile,Chrome,275,35
+2021-01-21,desktop,<Other>,7,1
+2021-01-21,tablet,Safari,8,1
+2021-01-21,desktop,Firefox,27,3
+2021-01-21,mobile,Android Webview,12,1
+2021-01-21,tablet,Chrome,10,1
+2021-01-21,tablet,<Other>,7,4
+2021-01-20,desktop,Chrome,587,144
+2021-01-20,mobile,Chrome,234,49
+2021-01-21,mobile,Firefox,1,0
+2021-01-20,mobile,Android Webview,15,3
+2021-01-20,mobile,Safari,218,54
+2021-01-20,desktop,Firefox,16,6
+2021-01-20,tablet,Safari,6,2
+2021-01-20,mobile,<Other>,15,1
+2021-01-20,tablet,Chrome,14,1
+2021-01-20,desktop,Edge,19,3
+2021-01-20,desktop,Safari,62,18
+2021-01-20,desktop,<Other>,8,2
+2021-01-20,tablet,Android Webview,0,0
+2020-12-23,desktop,Edge,9,2
+2020-12-23,desktop,Chrome,371,116
+2020-12-23,mobile,Safari,132,40
+2020-12-23,desktop,Safari,39,14
+2020-12-22,desktop,Safari,51,18
+2020-12-23,desktop,<Other>,5,2
+2020-12-23,mobile,<Other>,13,3
+2020-12-23,tablet,Chrome,9,1
+2020-12-23,desktop,Firefox,6,1
+2020-12-23,mobile,Android Webview,7,4
+2020-12-23,tablet,Safari,5,1
+2020-12-13,mobile,Safari,126,50
+2020-12-13,desktop,Chrome,354,136
+2020-12-13,mobile,Chrome,137,52
+2020-12-13,desktop,Firefox,12,5
+2020-12-13,mobile,Android Webview,6,1
+2020-12-13,mobile,<Other>,21,6
+2020-12-13,desktop,Safari,29,9
+2020-12-13,tablet,Safari,4,1
+2020-12-13,desktop,Edge,19,10
+2020-12-13,tablet,Chrome,4,1
+2020-12-13,mobile,Firefox,1,0
+2020-12-13,desktop,<Other>,8,2
+2020-12-13,tablet,<Other>,1,1
+2020-12-12,desktop,Chrome,452,178
+2020-12-22,tablet,Chrome,12,6
+2020-12-22,desktop,Chrome,416,104
+2020-12-22,tablet,Safari,10,0
+2020-12-22,mobile,Safari,192,53
+2020-12-22,mobile,Chrome,158,50
+2020-12-22,desktop,Firefox,13,4
+2020-12-22,mobile,Android Webview,11,1
+2020-12-22,desktop,Edge,14,3
+2020-12-22,mobile,<Other>,25,6
+2020-12-22,tablet,<Other>,2,0
+2020-12-22,desktop,<Other>,8,1
+2020-12-22,tablet,Android Webview,0,0
+2020-12-22,mobile,Firefox,0,0
+2021-01-28,desktop,Chrome,508,105
+2021-01-28,tablet,Chrome,18,5
+2021-01-28,mobile,Safari,205,45
+2021-01-28,desktop,Safari,50,7
+2021-01-28,mobile,<Other>,19,4
+2021-01-28,desktop,<Other>,6,1
+2021-01-28,desktop,Edge,25,7
+2021-01-28,mobile,Android Webview,11,3
+2021-01-28,desktop,Firefox,16,2
+2021-01-28,tablet,Safari,6,0
+2020-12-18,mobile,Safari,208,73
+2020-12-18,mobile,Chrome,169,57
+2020-12-18,desktop,Firefox,20,8
+2020-12-18,desktop,Safari,50,17
+2020-12-18,tablet,Safari,5,2
+2020-12-18,mobile,<Other>,21,12
+2020-12-18,desktop,Edge,31,11
+2020-12-18,tablet,Chrome,10,3
+2020-12-18,mobile,Android Webview,21,8
+2020-12-17,desktop,Chrome,608,195
+2020-12-17,desktop,Edge,28,6
+2020-12-17,mobile,Safari,236,74
+2020-12-17,desktop,<Other>,8,3
+2020-12-18,desktop,<Other>,5,2
+2020-12-12,mobile,Chrome,148,57
+2020-12-12,desktop,Firefox,14,5
+2020-12-12,mobile,Safari,156,62
+2020-12-12,mobile,<Other>,24,12
+2020-12-12,mobile,Android Webview,10,3
+2020-12-12,tablet,Chrome,7,1
+2020-12-12,desktop,Safari,36,16
+2020-12-11,desktop,Chrome,652,228
+2020-12-12,desktop,<Other>,4,2
+2020-12-12,desktop,Edge,24,9
+2020-12-12,tablet,Safari,5,0
+2020-12-11,mobile,<Other>,17,8
+2020-12-11,mobile,Safari,230,92
+2020-12-07,desktop,Chrome,628,221
+2020-12-07,mobile,Safari,215,78
+2020-12-07,desktop,Edge,20,6
+2020-12-07,mobile,Chrome,228,81
+2020-12-07,desktop,Safari,56,22
+2020-12-07,tablet,Safari,7,3
+2020-12-07,mobile,Android Webview,10,2
+2020-12-07,desktop,Firefox,20,9
+2020-12-07,mobile,<Other>,23,5
+2020-12-07,tablet,Chrome,7,2
+2020-12-07,desktop,<Other>,10,3
+2021-01-08,mobile,Chrome,115,27
+2021-01-08,desktop,Firefox,14,6
+2021-01-08,tablet,Chrome,8,3
+2021-01-08,desktop,Safari,30,5
+2021-01-08,desktop,Edge,16,3
+2021-01-08,tablet,Safari,7,0
+2021-01-08,mobile,Android Webview,7,2
+2021-01-08,mobile,<Other>,6,2
+2021-01-08,tablet,<Other>,2,0
+2021-01-08,desktop,<Other>,4,2
+2021-01-08,tablet,Android Webview,0,0
+2021-01-04,desktop,<Other>,2,0
+2021-01-04,desktop,Edge,12,1
+2021-01-04,tablet,Chrome,12,3
+2021-01-04,tablet,Safari,5,1
+2021-01-04,desktop,Safari,22,7
+2021-01-04,tablet,<Other>,2,0
+2021-01-04,mobile,Android Webview,7,3
+2021-01-04,mobile,<Other>,10,3
+2020-12-16,mobile,Chrome,209,79
+2020-12-16,mobile,Safari,207,65
+2020-12-16,desktop,Edge,31,9
+2020-12-16,tablet,Safari,11,4
+2020-12-16,desktop,Chrome,617,194
+2020-12-16,desktop,Safari,50,19
+2020-12-16,tablet,<Other>,3,1
+2020-12-16,desktop,Firefox,21,3
+2020-12-16,mobile,Android Webview,11,5
+2020-12-16,mobile,<Other>,15,3
+2020-12-15,mobile,Safari,237,96
+2020-12-15,desktop,Firefox,26,10
+2020-12-16,tablet,Chrome,11,2
+2020-12-16,desktop,<Other>,4,0
+2020-12-16,tablet,Android Webview,0,0
+2020-12-15,desktop,Chrome,608,214
+2020-12-16,mobile,Firefox,2,1
+2020-12-02,desktop,<Other>,6,3
+2020-12-02,mobile,Android Webview,18,10
+2020-12-02,desktop,Firefox,43,17
+2020-12-02,desktop,Edge,25,2
+2020-12-02,tablet,Safari,10,2
+2020-12-02,tablet,Chrome,12,4
+2020-12-02,mobile,<Other>,29,5
+2020-12-02,tablet,<Other>,6,2
+2020-12-02,mobile,Firefox,1,0
+2020-12-05,desktop,Safari,43,25
+2020-12-05,tablet,Safari,6,3
+2020-12-05,desktop,Edge,24,8
+2020-12-05,desktop,<Other>,0,0
+2020-12-05,mobile,Chrome,139,48
+2020-12-05,mobile,<Other>,13,6
+2020-12-05,tablet,Chrome,10,6
+2020-12-05,desktop,Firefox,6,3
+2020-12-05,mobile,Android Webview,11,4
+2020-12-05,tablet,<Other>,1,1
+2020-12-11,mobile,Chrome,233,88
+2020-12-11,desktop,Safari,65,25
+2020-12-11,tablet,Safari,8,3
+2020-12-11,desktop,Edge,26,10
+2020-12-11,tablet,Chrome,14,8
+2020-12-11,mobile,Android Webview,13,7
+2020-12-11,desktop,<Other>,6,1
+2020-12-11,desktop,Firefox,24,9
+2020-12-10,mobile,Safari,268,103
+2020-12-11,tablet,Android Webview,0,0
+2020-12-11,mobile,Firefox,3,1
+2020-12-11,tablet,<Other>,1,0
+2020-12-17,mobile,Chrome,241,73
+2020-12-17,desktop,Safari,49,11
+2020-12-17,tablet,<Other>,2,0
+2020-12-17,tablet,Chrome,8,3
+2020-12-17,mobile,<Other>,25,7
+2020-12-17,desktop,Firefox,19,9
+2020-12-17,mobile,Android Webview,19,2
+2020-12-17,tablet,Safari,7,2
+2020-12-17,mobile,Firefox,2,2
+2020-12-09,desktop,Chrome,638,243
+2020-12-09,mobile,Chrome,224,73
+2020-12-09,mobile,Safari,230,92
+2020-12-09,tablet,Chrome,17,7
+2020-12-09,desktop,Safari,52,17
+2020-12-09,desktop,Edge,39,14
+2020-12-09,desktop,Firefox,20,5
+2020-12-09,mobile,<Other>,23,12
+2020-12-09,tablet,Safari,11,5
+2020-12-09,mobile,Android Webview,12,6
+2020-12-09,desktop,<Other>,8,3
+2020-12-08,desktop,Safari,65,22
+2020-12-08,mobile,Safari,244,98
+2020-12-08,mobile,Chrome,260,96
+2020-12-09,mobile,Firefox,1,0
+2020-12-09,tablet,Android Webview,0,0
+2020-12-08,desktop,Chrome,736,261
+2020-12-08,desktop,Edge,36,12
+2020-12-08,mobile,Android Webview,22,3
+2020-12-08,mobile,<Other>,27,6
+2020-12-08,mobile,Firefox,2,0
+2020-12-08,tablet,Chrome,14,5
+2020-12-08,desktop,Firefox,22,10
+2020-12-08,tablet,Safari,11,9
+2020-12-08,desktop,<Other>,9,3
+2020-12-08,tablet,<Other>,1,0
+2020-12-14,desktop,Chrome,536,198
+2020-12-14,mobile,Safari,193,84
+2020-12-14,mobile,Chrome,210,91
+2020-12-14,desktop,Safari,45,17
+2020-12-14,desktop,Edge,13,5
+2020-12-14,desktop,Firefox,20,2
+2020-12-14,mobile,<Other>,15,3
+2020-12-14,tablet,Android Webview,0,0
+2020-12-14,mobile,Firefox,0,0
+2020-12-14,mobile,Android Webview,7,4
+2020-12-14,tablet,Chrome,8,5
+2020-12-14,tablet,Safari,8,1
+2020-12-14,desktop,<Other>,11,5
+2020-12-10,desktop,Chrome,724,266
+2020-12-10,mobile,Chrome,232,77
+2020-12-10,desktop,Firefox,33,13
+2020-12-10,desktop,Safari,61,21
+2020-12-10,mobile,Android Webview,19,7
+2020-12-10,tablet,Safari,4,0
+2020-12-10,desktop,Edge,27,11
+2020-12-10,tablet,Chrome,13,4
+2020-12-10,mobile,<Other>,30,11
+2020-12-10,tablet,<Other>,2,0
+2020-12-10,desktop,<Other>,5,2
+2020-12-10,mobile,Firefox,3,1
+2020-12-10,tablet,Android Webview,2,1
+2020-12-15,desktop,Safari,52,18
+2020-12-15,desktop,<Other>,8,3
+2020-12-15,tablet,Safari,13,5
+2020-12-15,tablet,<Other>,1,1
+2020-12-15,mobile,Chrome,228,78
+2020-12-15,tablet,Chrome,13,6
+2020-12-15,mobile,<Other>,26,14
+2020-12-15,desktop,Edge,27,8
+2020-12-15,mobile,Android Webview,12,4
+2020-12-25,tablet,<Other>,1,0
+2021-01-24,mobile,Firefox,1,1
+2020-12-31,mobile,Firefox,0,0
+2020-12-31,tablet,Android Webview,1,0
+2020-12-28,mobile,Firefox,0,0
+2021-01-07,tablet,Android Webview,3,1
+2021-01-30,tablet,<Other>,0,0
+2021-01-10,tablet,<Other>,1,1
+2020-12-24,tablet,<Other>,1,0
+2021-01-09,mobile,Firefox,0,0
+2021-01-27,tablet,Android Webview,3,0
+2020-12-30,tablet,<Other>,0,0
+2021-01-11,mobile,Edge,0,0
+2021-01-05,tablet,<Other>,0,0
+2020-12-27,mobile,Firefox,0,0
+2021-01-14,mobile,Firefox,0,0
+2021-01-22,tablet,Android Webview,1,0
+2021-01-22,mobile,Firefox,0,0
+2020-12-06,mobile,Firefox,2,0
+2020-12-06,tablet,Android Webview,0,0
+2020-12-04,tablet,<Other>,0,0
+2021-01-19,mobile,Firefox,2,1
+2021-01-21,tablet,Android Webview,1,0
+2021-01-20,tablet,<Other>,3,0
+2021-01-20,mobile,Firefox,0,0
+2020-12-23,tablet,Android Webview,1,0
+2020-12-18,mobile,Firefox,1,0
+2020-12-18,tablet,<Other>,3,2
+2020-12-18,tablet,Android Webview,0,0
+2020-12-12,tablet,<Other>,1,0
+2020-12-12,mobile,Firefox,1,1
+2020-12-07,tablet,<Other>,1,1
+2020-12-07,mobile,Firefox,1,0
+2021-01-04,mobile,Firefox,0,0
+2020-12-05,tablet,Android Webview,1,1
+2020-12-05,mobile,Firefox,1,1
+2020-12-14,tablet,<Other>,4,2
+2020-12-15,mobile,Firefox,1,0
+2021-01-31,mobile,Firefox,1,0
+2021-01-24,tablet,<Other>,1,0
+2020-12-20,tablet,Android Webview,0,0
+2021-01-03,mobile,Firefox,0,0
+2021-01-17,tablet,Android Webview,0,0
+2021-01-11,mobile,Firefox,1,0
+2021-01-06,mobile,Edge,1,1
+2020-12-21,tablet,Android Webview,1,1
+2021-01-29,mobile,Firefox,2,1
+2021-01-26,mobile,Firefox,2,0
+2020-12-04,tablet,Android Webview,0,0
+2021-01-15,mobile,Firefox,1,0
+2021-01-19,tablet,<Other>,2,0
+2021-01-12,mobile,Firefox,0,0
+2020-12-23,mobile,Firefox,1,0
+2020-12-12,tablet,Android Webview,1,0
+2020-12-07,tablet,Android Webview,1,0
+2020-12-02,tablet,Android Webview,1,0
+2020-12-17,tablet,Android Webview,1,1
+2020-12-09,tablet,<Other>,1,1
+2020-12-08,tablet,Android Webview,1,1
+2021-01-01,mobile,Firefox,0,0
+2020-12-25,mobile,Firefox,0,0
+2021-01-23,mobile,Firefox,1,1
+2021-01-02,mobile,Firefox,0,0
+2020-12-28,tablet,<Other>,0,0
+2021-01-25,tablet,Android Webview,0,0
+2021-01-30,mobile,Edge,0,0
+2021-01-30,tablet,Android Webview,0,0
+2021-01-09,tablet,<Other>,0,0
+2021-01-05,mobile,Edge,0,0
+2021-01-13,tablet,Android Webview,0,0
+2021-01-26,tablet,Android Webview,0,0
+2020-12-01,mobile,Firefox,0,0
+2020-12-03,tablet,Android Webview,0,0
+2020-12-29,tablet,Android Webview,0,0
+2020-12-29,mobile,Firefox,2,0
+2020-12-23,tablet,<Other>,0,0
+2020-12-13,tablet,Android Webview,0,0
+2021-01-28,tablet,<Other>,1,0
+2021-01-28,tablet,Android Webview,1,0
+2021-01-08,mobile,Firefox,1,0
+2020-12-15,tablet,Android Webview,0,0
+2021-01-18,tablet,<Other>,2,0
+2020-12-21,mobile,Firefox,0,0
+2020-12-27,tablet,Android Webview,0,0
+2021-01-14,tablet,Android Webview,1,0
+2021-01-29,tablet,Android Webview,0,0
+2020-12-13,mobile,Edge,0,0
+2021-01-01,tablet,<Other>,0,0
+2020-12-20,mobile,Edge,0,0
+2020-12-30,mobile,Firefox,1,0
+2021-01-28,mobile,Firefox,0,0

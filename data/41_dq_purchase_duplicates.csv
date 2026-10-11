@@ -1,0 +1,2 @@
+﻿purchase_events,txn_id_missing_rows,distinct_txn_ids,duplicated_txn_ids,extra_rows,dup_with_multiple_users,dup_across_multiple_dates,dup_with_different_revenue,inflated_revenue_if_summed,total_revenue_summed_as_is
+5692,906,4466,314,320,0,0,0,21518.0,362165.0

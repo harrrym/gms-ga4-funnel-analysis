@@ -1,0 +1,44 @@
+﻿period,category,item_count,avg_price,pct_of_period_items
+평상시,Apparel,14906,31.83,29.58
+평상시,New,4893,13.76,9.71
+평상시,Campus Collection,3836,9.88,7.61
+평상시,Accessories,3709,12.23,7.36
+평상시,Bags,2690,27.63,5.34
+평상시,,2527,17.44,5.01
+평상시,Office,2499,5.57,4.96
+평상시,Shop by Brand,2417,16.85,4.8
+평상시,Drinkware,2110,14.07,4.19
+평상시,Clearance,2065,12.52,4.1
+평상시,Lifestyle,1967,20.6,3.9
+평상시,(not set),1754,,3.48
+평상시,Uncategorized Items,1516,27.35,3.01
+평상시,Google,772,5.62,1.53
+평상시,Stationery,769,2.93,1.53
+평상시,Writing Instruments,706,2.17,1.4
+평상시,Small Goods,560,8.86,1.11
+평상시,Notebooks & Journals,277,6.36,0.55
+평상시,Gift Cards,188,69.79,0.37
+평상시,Electronics Accessories,158,10.34,0.31
+평상시,Fun,77,2.0,0.15
+하락구간,Apparel,6120,32.96,22.19
+하락구간,Campus Collection,2802,10.64,10.16
+하락구간,New,2631,12.19,9.54
+하락구간,Accessories,2556,10.27,9.27
+하락구간,Shop by Brand,2258,17.42,8.19
+하락구간,Bags,1797,32.2,6.51
+하락구간,Office,1623,6.53,5.88
+하락구간,Clearance,1413,14.58,5.12
+하락구간,Lifestyle,1068,17.73,3.87
+하락구간,Drinkware,945,15.81,3.43
+하락구간,Uncategorized Items,872,34.35,3.16
+하락구간,,770,16.51,2.79
+하락구간,Google,757,6.44,2.74
+하락구간,Writing Instruments,580,2.12,2.1
+하락구간,Stationery,556,2.78,2.02
+하락구간,Small Goods,279,6.75,1.01
+하락구간,Gift Cards,233,48.39,0.84
+하락구간,(not set),179,,0.65
+하락구간,Electronics Accessories,83,10.51,0.3
+하락구간,Fun,39,2.0,0.14
+하락구간,Notebooks & Journals,15,5.4,0.05
+하락구간,Black Lives Matter,8,58.0,0.03

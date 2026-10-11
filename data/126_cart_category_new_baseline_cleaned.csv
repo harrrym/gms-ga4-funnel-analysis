@@ -1,0 +1,100 @@
+﻿period,category_clean,item_adds,pct
+블프구간,Apparel,1199,6.78
+블프구간,Apparel/Hats,5088,28.77
+블프구간,Apparel/Kids,558,3.16
+블프구간,Apparel/Men's,2534,14.33
+블프구간,Apparel/Socks,78,0.44
+블프구간,Apparel/Women's,610,3.45
+블프구간,Campus Collection,361,2.04
+블프구간,Eco-Friendly,343,1.94
+블프구간,Lifestyle,393,2.22
+블프구간,Lifestyle/Bags,472,2.67
+블프구간,Lifestyle/Drinkware,920,5.2
+블프구간,Lifestyle/Small Goods,264,1.49
+블프구간,New,672,3.8
+블프구간,Sale,2275,12.86
+블프구간,Shop by Brand,60,0.34
+블프구간,Shop by Brand/Android,108,0.61
+블프구간,Shop by Brand/Google,312,1.76
+블프구간,Shop by Brand/YouTube,696,3.94
+블프구간,Stationery,348,1.97
+블프구간,Stationery/Notebooks,132,0.75
+블프구간,Stationery/Office,12,0.07
+블프구간,Stationery/Stickers,154,0.87
+블프구간,Stationery/Writing,24,0.14
+블프구간,기타/미분류,73,0.41
+사후구간,Apparel,2146,7.8
+사후구간,Apparel/Hats,1048,3.81
+사후구간,Apparel/Kids,933,3.39
+사후구간,Apparel/Men's,5667,20.6
+사후구간,Apparel/Socks,64,0.23
+사후구간,Apparel/Women's,1205,4.38
+사후구간,Campus Collection,1015,3.69
+사후구간,Eco-Friendly,1154,4.19
+사후구간,Lifestyle,623,2.26
+사후구간,Lifestyle/Bags,1144,4.16
+사후구간,Lifestyle/Drinkware,1497,5.44
+사후구간,Lifestyle/Small Goods,768,2.79
+사후구간,New,1440,5.23
+사후구간,Sale,3781,13.74
+사후구간,Shop by Brand,240,0.87
+사후구간,Shop by Brand/#IamRemarkable,8,0.03
+사후구간,Shop by Brand/Android,299,1.09
+사후구간,Shop by Brand/Google,853,3.1
+사후구간,Shop by Brand/YouTube,1225,4.45
+사후구간,Stationery,719,2.61
+사후구간,Stationery/Notebooks,732,2.66
+사후구간,Stationery/Office,12,0.04
+사후구간,Stationery/Stickers,548,1.99
+사후구간,Stationery/Writing,228,0.83
+사후구간,기타/미분류,161,0.59
+평상시,Apparel,3171,6.02
+평상시,Apparel/Hats,14646,27.81
+평상시,Apparel/Kids,1709,3.25
+평상시,Apparel/Men's,7283,13.83
+평상시,Apparel/Socks,252,0.48
+평상시,Apparel/Women's,2202,4.18
+평상시,Campus Collection,1243,2.36
+평상시,Eco-Friendly,1219,2.31
+평상시,Lifestyle,937,1.78
+평상시,Lifestyle/Bags,1294,2.46
+평상시,Lifestyle/Drinkware,2704,5.13
+평상시,Lifestyle/Small Goods,852,1.62
+평상시,New,1991,3.78
+평상시,Sale,5597,10.63
+평상시,Shop by Brand,288,0.55
+평상시,Shop by Brand/#IamRemarkable,32,0.06
+평상시,Shop by Brand/Android,360,0.68
+평상시,Shop by Brand/Google,1546,2.94
+평상시,Shop by Brand/YouTube,2166,4.11
+평상시,Stationery,1016,1.93
+평상시,Stationery/Notebooks,744,1.41
+평상시,Stationery/Office,24,0.05
+평상시,Stationery/Stickers,776,1.47
+평상시,Stationery/Writing,420,0.8
+평상시,기타/미분류,193,0.37
+하락구간,Apparel,2938,6.74
+하락구간,Apparel/Hats,2382,5.47
+하락구간,Apparel/Kids,1472,3.38
+하락구간,Apparel/Men's,7998,18.36
+하락구간,Apparel/Socks,132,0.3
+하락구간,Apparel/Women's,2136,4.9
+하락구간,Campus Collection,1586,3.64
+하락구간,Eco-Friendly,1443,3.31
+하락구간,Lifestyle,984,2.26
+하락구간,Lifestyle/Bags,1324,3.04
+하락구간,Lifestyle/Drinkware,3034,6.96
+하락구간,Lifestyle/Small Goods,1079,2.48
+하락구간,New,2181,5.01
+하락구간,Sale,6453,14.81
+하락구간,Shop by Brand,311,0.71
+하락구간,Shop by Brand/#IamRemarkable,80,0.18
+하락구간,Shop by Brand/Android,479,1.1
+하락구간,Shop by Brand/Google,1443,3.31
+하락구간,Shop by Brand/YouTube,2679,6.15
+하락구간,Stationery,1148,2.64
+하락구간,Stationery/Notebooks,827,1.9
+하락구간,Stationery/Office,48,0.11
+하락구간,Stationery/Stickers,798,1.83
+하락구간,Stationery/Writing,396,0.91
+하락구간,기타/미분류,213,0.49

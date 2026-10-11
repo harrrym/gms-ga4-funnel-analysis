@@ -1,0 +1,6 @@
+﻿channel,new_users,converters,total_revenue_7d,revenue_per_new_user,revenue_per_converter
+google/organic,91136,967,73704.0,0.809,76.22
+식별불가/기타,80374,862,65552.0,0.816,76.05
+direct,62149,643,47118.0,0.758,73.28
+google/cpc,14166,156,12085.0,0.853,77.47
+self-referral,13323,129,10101.0,0.758,78.3

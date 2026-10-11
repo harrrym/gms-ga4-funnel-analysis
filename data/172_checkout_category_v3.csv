@@ -1,0 +1,113 @@
+﻿period,category,item_count,unmapped_count,avg_price,pct_of_period_items
+사후구간,Home/Apparel/Men's / Unisex/,4103,0,43.43,15.23
+사후구간,Home/Sale/,1956,0,11.67,7.26
+사후구간,Lifestyle/,1787,0,11.35,6.63
+사후구간,Home/Apparel/Hats/,1711,0,13.42,6.35
+사후구간,(not set),1613,0,,5.99
+사후구간,Home/Eco-Friendly/,1322,0,20.32,4.91
+사후구간,Home/Campus Collection/,1225,0,9.19,4.55
+사후구간,Home/Stationery/,1041,0,3.04,3.86
+사후구간,Lifestyle/Drinkware/,1030,0,17.06,3.82
+사후구간,Small Goods,960,0,17.19,3.56
+사후구간,Home/Stationery/Writing/,925,0,1.73,3.43
+사후구간,Lifestyle/Small Goods/,898,0,17.09,3.33
+사후구간,Home/Apparel/Kids/,870,0,22.51,3.23
+사후구간,Home/New/,815,0,17.13,3.02
+사후구간,Lifestyle/Bags/,786,0,30.74,2.92
+사후구간,Home/Shop by Brand/Google/,778,0,9.42,2.89
+사후구간,Home/Apparel/,698,0,13.09,2.59
+사후구간,Apparel,679,679,22.32,2.52
+사후구간,Home/Apparel/Women's/,672,0,34.06,2.49
+사후구간,Home/Stationery/Notebooks/,668,0,11.1,2.48
+사후구간,Home/Shop by Brand/YouTube/,400,0,35.87,1.48
+사후구간,Home/Stationery/Stickers/,394,0,1.99,1.46
+사후구간,Home/Shop by Brand/Android/,311,0,8.7,1.15
+사후구간,Drinkware,274,0,14.27,1.02
+사후구간,Uncategorized Items,240,240,20.04,0.89
+사후구간,Bags,174,0,42.29,0.65
+사후구간,Home/Apparel/Socks/,149,0,13.44,0.55
+사후구간,Sale,115,0,14.16,0.43
+사후구간,Home/Gift Cards/,108,0,100.0,0.4
+사후구간,Eco-Friendly,70,0,12.99,0.26
+사후구간,Google,42,0,29.0,0.16
+사후구간,Men's / Unisex,38,0,25.05,0.14
+사후구간,Women's,37,0,36.0,0.14
+사후구간,,18,18,16.33,0.07
+사후구간,Campus Collection,15,0,14.0,0.06
+사후구간,Backpacks/,15,0,22.0,0.06
+사후구간,Home/Shop by Brand/#IamRemarkable/,8,0,2.5,0.03
+평상시,Home/Apparel/Men's / Unisex/,3580,0,44.35,15.27
+평상시,Home/Apparel/Hats/,2916,0,13.41,12.43
+평상시,Home/Campus Collection/,1480,0,9.67,6.31
+평상시,Lifestyle/,1472,0,12.56,6.28
+평상시,Home/Stationery/,1454,0,2.81,6.2
+평상시,Home/Sale/,1320,0,13.35,5.63
+평상시,Home/Eco-Friendly/,942,0,17.17,4.02
+평상시,Lifestyle/Drinkware/,908,0,17.55,3.87
+평상시,Home/Apparel/Kids/,860,0,21.12,3.67
+평상시,Small Goods,806,0,17.62,3.44
+평상시,Home/Stationery/Notebooks/,800,0,11.5,3.41
+평상시,Lifestyle/Bags/,758,0,25.56,3.23
+평상시,Lifestyle/Small Goods/,650,0,8.04,2.77
+평상시,Home/Shop by Brand/Google/,590,0,11.83,2.52
+평상시,Home/New/,576,0,24.93,2.46
+평상시,Apparel,572,572,22.66,2.44
+평상시,Home/Apparel/Women's/,520,0,42.71,2.22
+평상시,Home/Apparel/,478,0,13.89,2.04
+평상시,Home/Stationery/Writing/,450,0,1.94,1.92
+평상시,Home/Shop by Brand/YouTube/,364,0,14.2,1.55
+평상시,Home/Stationery/Stickers/,310,0,2.48,1.32
+평상시,Home/Shop by Brand/Android/,268,0,14.76,1.14
+평상시,Bags,268,0,53.34,1.14
+평상시,Home/Apparel/Socks/,234,0,13.5,1.0
+평상시,Sale,148,0,9.73,0.63
+평상시,(not set),141,0,,0.6
+평상시,Drinkware,138,0,14.87,0.59
+평상시,Eco-Friendly,82,0,12.8,0.35
+평상시,Home/Gift Cards/,80,0,29.0,0.34
+평상시,Women's,68,0,38.91,0.29
+평상시,Uncategorized Items,64,64,18.88,0.27
+평상시,Google,40,0,28.0,0.17
+평상시,Men's / Unisex,40,0,24.2,0.17
+평상시,Home/Shop by Brand/#IamRemarkable/,40,0,2.35,0.17
+평상시,Backpacks/,22,0,20.45,0.09
+평상시,Campus Collection,10,0,14.0,0.04
+평상시,,2,2,24.0,0.01
+하락구간,Home/Apparel/Men's / Unisex/,4059,0,42.45,14.72
+하락구간,Home/Campus Collection/,2272,0,10.02,8.24
+하락구간,Lifestyle/,2048,0,13.37,7.42
+하락구간,Home/Sale/,1771,0,13.64,6.42
+하락구간,Home/Stationery/,1527,0,3.01,5.54
+하락구간,Home/Apparel/Hats/,1398,0,12.72,5.07
+하락구간,Home/New/,1328,0,17.45,4.81
+하락구간,Home/Stationery/Notebooks/,1261,0,12.09,4.57
+하락구간,Home/Stationery/Writing/,1259,0,1.72,4.56
+하락구간,Home/Shop by Brand/Google/,1236,0,11.36,4.48
+하락구간,Home/Eco-Friendly/,1118,0,16.33,4.05
+하락구간,Lifestyle/Bags/,933,0,34.24,3.38
+하락구간,Small Goods,859,0,16.97,3.11
+하락구간,Lifestyle/Small Goods/,841,0,9.82,3.05
+하락구간,Home/Apparel/Kids/,816,0,20.02,2.96
+하락구간,Lifestyle/Drinkware/,720,0,18.68,2.61
+하락구간,Home/Apparel/Women's/,618,0,44.54,2.24
+하락구간,Home/Shop by Brand/Android/,507,0,7.33,1.84
+하락구간,Apparel,463,463,20.81,1.68
+하락구간,Home/Stationery/Stickers/,442,0,2.38,1.6
+하락구간,Home/Apparel/,440,0,14.28,1.6
+하락구간,Bags,246,0,57.68,0.89
+하락구간,Home/Gift Cards/,233,0,48.39,0.84
+하락구간,Home/Shop by Brand/YouTube/,181,0,14.89,0.66
+하락구간,(not set),179,0,,0.65
+하락구간,Home/Apparel/Socks/,174,0,14.53,0.63
+하락구간,Sale,109,0,10.24,0.4
+하락구간,Men's / Unisex,88,0,23.2,0.32
+하락구간,Eco-Friendly,83,0,12.76,0.3
+하락구간,Drinkware,81,0,15.22,0.29
+하락구간,Uncategorized Items,81,81,18.99,0.29
+하락구간,Backpacks/,65,0,22.31,0.24
+하락구간,Home/Shop by Brand/#IamRemarkable/,57,0,2.11,0.21
+하락구간,Women's,48,0,39.94,0.17
+하락구간,Google,15,0,28.0,0.05
+하락구간,Campus Collection,11,0,14.0,0.04
+하락구간,,9,9,26.67,0.03
+하락구간,Home/Black Lives Matter/,8,0,58.0,0.03

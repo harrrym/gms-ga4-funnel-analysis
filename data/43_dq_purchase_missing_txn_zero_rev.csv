@@ -1,0 +1,4 @@
+﻿txn_status,rev_status,purchase_rows,users,revenue_sum,rows_repeating_same_user_date_revenue
+txn=NULL,revenue=0,450,398,0.0,41
+txn=NULL,revenue>0,456,391,31817.0,35
+txn=정상값,revenue>0,4786,3713,330348.0,563

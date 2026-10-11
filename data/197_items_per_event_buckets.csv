@@ -1,0 +1,23 @@
+﻿event_name,bucket,events,pct
+add_to_cart,11개 이상,37603,93.6
+add_to_cart,1개,1062,2.6
+add_to_cart,2~5개,299,0.7
+add_to_cart,6~10개,1202,3.0
+begin_checkout,11개 이상,314,1.5
+begin_checkout,1개,10105,48.8
+begin_checkout,2~5개,8769,42.3
+begin_checkout,6~10개,1540,7.4
+purchase,11개 이상,52,1.9
+purchase,1개,1036,38.7
+purchase,2~5개,1345,50.3
+purchase,6~10개,241,9.0
+select_item,0개,1,0.0
+select_item,11개 이상,18055,84.2
+select_item,1개,1733,8.1
+select_item,2~5개,363,1.7
+select_item,6~10개,1290,6.0
+view_item,0개,57753,33.1
+view_item,11개 이상,108789,62.3
+view_item,1개,3815,2.2
+view_item,2~5개,906,0.5
+view_item,6~10개,3350,1.9

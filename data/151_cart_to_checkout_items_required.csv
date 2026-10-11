@@ -1,0 +1,5 @@
+﻿period,cart_users,checkout_any_users,checkout_with_items_users,checkout_zero_items_only_users,cart_to_checkout_any_rate,cart_to_checkout_withitems_rate,pct_zero_item_checkout_among_checkouters
+블프구간,1551,807,791,16,52.03,51.0,1.98
+사후구간,2509,1012,1012,0,40.33,40.33,0.0
+평상시,4632,2359,2122,237,50.93,45.81,10.05
+하락구간,3853,1384,1384,0,35.92,35.92,0.0

@@ -1,0 +1,21 @@
+﻿period,is_new,channel,sessions,cart_sessions,purchase_sessions
+12월 초,False,direct,3961,420,169
+12월 초,False,google/cpc,291,39,9
+12월 초,False,google/organic,4113,408,171
+12월 초,False,self-referral,3005,299,124
+12월 초,False,식별불가/기타,7557,766,319
+12월 초,True,direct,11000,750,99
+12월 초,True,google/cpc,2599,152,29
+12월 초,True,google/organic,16170,1024,154
+12월 초,True,self-referral,2385,162,25
+12월 초,True,식별불가/기타,14170,887,137
+하락구간,False,direct,5465,437,152
+하락구간,False,google/cpc,368,46,16
+하락구간,False,google/organic,5481,461,152
+하락구간,False,self-referral,3909,350,109
+하락구간,False,식별불가/기타,9825,869,274
+하락구간,True,direct,19950,665,112
+하락구간,True,google/cpc,4492,127,21
+하락구간,True,google/organic,29434,922,140
+하락구간,True,self-referral,4189,127,16
+하락구간,True,식별불가/기타,25815,851,117

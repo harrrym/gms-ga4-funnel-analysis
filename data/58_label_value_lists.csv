@@ -1,0 +1,52 @@
+﻿field,rn,val,n
+device.category,1,desktop,2498330
+device.category,2,mobile,1704069
+device.category,3,tablet,93185
+device.operating_system,1,Web,2505847
+device.operating_system,2,iOS,498649
+device.operating_system,3,Windows,497689
+device.operating_system,4,Android,364111
+device.operating_system,5,Macintosh,318965
+device.operating_system,6,<Other>,110323
+geo.continent,1,Americas,2404732
+geo.continent,2,Asia,998280
+geo.continent,3,Europe,793186
+geo.continent,4,Oceania,45933
+geo.continent,5,Africa,42536
+geo.continent,6,(not set),10917
+geo.country,1,United States,1910483
+geo.country,2,India,391859
+geo.country,3,Canada,324261
+geo.country,4,United Kingdom,133383
+geo.country,5,France,82514
+geo.country,6,Spain,81713
+geo.country,7,China,76159
+geo.country,8,Taiwan,72484
+geo.country,9,Germany,71673
+geo.country,10,Italy,61258
+geo.country,11,Singapore,56869
+geo.country,12,Japan,56676
+geo.country,13,South Korea,51584
+geo.country,14,Netherlands,50303
+geo.country,15,Turkey,45168
+geo.country,16,Brazil,42380
+geo.country,17,Australia,39493
+geo.country,18,Mexico,38655
+geo.country,19,Poland,37380
+geo.country,20,Indonesia,35608
+geo.country,21,(not set),32208
+geo.country,22,Russia,28709
+geo.country,23,Ireland,26666
+geo.country,24,Hong Kong,26062
+geo.country,25,Sweden,23267
+traffic_source.medium,1,organic,1439399
+traffic_source.medium,2,(none),989684
+traffic_source.medium,3,referral,778087
+traffic_source.medium,4,<Other>,597482
+traffic_source.medium,5,(data deleted),313917
+traffic_source.medium,6,cpc,177015
+traffic_source.source,1,google,1500418
+traffic_source.source,2,<Other>,1131013
+traffic_source.source,3,(direct),989684
+traffic_source.source,4,shop.googlemerchandisestore.com,365774
+traffic_source.source,5,(data deleted),308695

@@ -1,0 +1,7 @@
+﻿event_name,period,row_count,avg_price
+begin_checkout,사후구간,26945,20.12
+begin_checkout,평상시,23451,19.54
+begin_checkout,하락구간,27584,18.87
+view_item,사후구간,1413099,26.35
+view_item,평상시,600784,27.12
+view_item,하락구간,734363,26.47

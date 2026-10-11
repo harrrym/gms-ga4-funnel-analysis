@@ -1,0 +1,7 @@
+﻿period,device_category,sessions,view_item_sessions,add_to_cart_sessions,begin_checkout_sessions,purchase_sessions,view_to_cart_cr,cart_to_checkout_cr,checkout_to_purchase_cr
+문제구간,desktop,13997,2102,429,173,83,20.41,40.33,47.98
+문제구간,mobile,9282,1441,308,110,63,21.37,35.71,57.27
+문제구간,tablet,571,102,21,8,7,20.59,38.1,87.5
+평상시,desktop,195461,42827,8389,6229,2667,19.59,74.25,42.82
+평상시,mobile,134218,29130,5778,4370,1934,19.84,75.63,44.26
+평상시,tablet,7445,1601,300,233,97,18.74,77.67,41.63

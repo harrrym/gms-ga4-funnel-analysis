@@ -1,0 +1,5 @@
+__pycache__/
+CLAUDE.md
+*.docx
+.env
+.ipynb_checkpoints/

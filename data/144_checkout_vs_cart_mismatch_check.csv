@@ -1,0 +1,2 @@
+﻿total_checkout_events,distinct_checkout_users,avg_checkout_events_per_user,max_checkout_events_per_user,avg_checkout_events_per_session,checkout_without_any_cart_event,checkout_with_earlier_cart_date,checkout_users_first_cart_before_decline
+10987,1881,5.84,64,5.25,417,384,160

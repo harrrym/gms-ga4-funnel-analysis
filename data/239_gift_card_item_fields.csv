@@ -1,0 +1,116 @@
+﻿event_name,item_id,item_name,item_brand,item_variant,item_category,item_category2,item_category3,item_list_name,coupon,n,min_price,max_price
+begin_checkout,9181148,Gift Card- $100.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),148,100.0,100.0
+begin_checkout,9181151,Gift Card - $50.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),96,50.0,50.0
+begin_checkout,9181149,Gift Card - $25.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),93,25.0,25.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),89,12.0,12.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),78,8.0,8.0
+begin_checkout,9181149,Gift Card - $25.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),74,25.0,25.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),72,12.0,12.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),64,8.0,8.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Bags,(not set),(not set),Not available in demo dataset,(not set),42,10.0,12.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Bags,(not set),(not set),Not available in demo dataset,(not set),36,6.0,8.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),35,63.0,63.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),35,31.0,31.0
+view_item,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),35,13.0,13.0
+view_item,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),35,313.0,313.0
+add_to_cart,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),34,63.0,63.0
+add_to_cart,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),34,13.0,13.0
+add_to_cart,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),34,31.0,31.0
+add_to_cart,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),34,313.0,313.0
+purchase,9181149,Gift Card - $25.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),30,25.0,25.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),,(not set),(not set),(not set),(not set),20,31.0,31.0
+begin_checkout,9196268,Google Large White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),Not available in demo dataset,(not set),20,10.0,12.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle,(not set),(not set),Not available in demo dataset,(not set),19,10.0,12.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),18,12.0,12.0
+add_to_cart,9181148,Gift Card- $100.00,,,Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),17,125.0,125.0
+begin_checkout,9196267,Google Small White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),(not set),(not set),16,6.0,8.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),16,8.0,8.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle,(not set),(not set),Not available in demo dataset,(not set),16,6.0,8.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),12,63.0,63.0
+begin_checkout,9196267,Google Small White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),Not available in demo dataset,(not set),12,6.0,6.0
+begin_checkout,9196268,Google Large White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),(not set),(not set),12,10.0,12.0
+purchase,9181148,Gift Card- $100.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),12,100.0,100.0
+select_item,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),11,31.0,31.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),11,63.0,63.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Bags,(not set),(not set),(not set),(not set),11,6.0,8.0
+purchase,9181149,Gift Card - $25.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),11,25.0,25.0
+select_item,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),11,13.0,13.0
+select_item,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),11,313.0,313.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),11,31.0,31.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Google,(not set),(not set),Not available in demo dataset,(not set),11,10.0,12.0
+add_to_cart,9181149,Gift Card - $25.00,,,,(not set),(not set),(not set),(not set),10,31.0,31.0
+select_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),10,12.0,12.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),9,63.0,63.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),9,31.0,31.0
+view_item,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),9,13.0,13.0
+select_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),9,12.0,12.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,(not set),,(not set),(not set),Not available in demo dataset,(not set),9,8.0,8.0
+view_item,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),9,313.0,313.0
+view_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),9,125.0,125.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Bags,(not set),(not set),(not set),(not set),8,10.0,12.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Google,(not set),(not set),(not set),(not set),7,10.0,12.0
+purchase,9196268,Google Large White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),Not available in demo dataset,(not set),7,10.0,12.0
+purchase,9196267,Google Small White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),Not available in demo dataset,(not set),7,6.0,8.0
+select_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),(not set),(not set),7,8.0,8.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Google,(not set),(not set),Not available in demo dataset,(not set),6,8.0,8.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),6,63.0,63.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle,(not set),(not set),(not set),(not set),6,12.0,12.0
+add_to_cart,9181151,Gift Card - $50.00,,,Home/Gift Cards/,(not set),(not set),(not set),(not set),5,63.0,63.0
+select_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),5,8.0,8.0
+select_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),,(not set),(not set),(not set),(not set),5,31.0,31.0
+purchase,9196268,Google Large White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),(not set),(not set),5,10.0,12.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,(not set),Bags,(not set),(not set),Not available in demo dataset,(not set),4,8.0,8.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,Google,,Bags,(not set),(not set),Not available in demo dataset,(not set),4,10.0,12.0
+view_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),4,125.0,125.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),4,12.0,12.0
+purchase,9196267,Google Small White Gift Bag 5/PK,Google,Single Option Only,New,(not set),(not set),(not set),(not set),4,6.0,8.0
+add_to_cart,9181149,Gift Card - $25.00,,,Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),4,31.0,31.0
+add_to_cart,9181148,Gift Card- $100.00,,,Home/Gift Cards/,(not set),(not set),(not set),(not set),4,125.0,125.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle/Bags/,(not set),(not set),Not available in demo dataset,(not set),4,8.0,8.0
+purchase,9181151,Gift Card - $50.00,,Single Option Only,Gift Cards,(not set),(not set),Not available in demo dataset,(not set),4,50.0,50.0
+add_to_cart,9181149,Gift Card - $25.00,,,Home/Gift Cards/,(not set),(not set),(not set),(not set),4,31.0,31.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),4,63.0,63.0
+begin_checkout,9181151,Gift Card - $50.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),4,50.0,50.0
+begin_checkout,9181148,Gift Card- $100.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),4,100.0,100.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),3,31.0,31.0
+view_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),3,125.0,125.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,(not set),,(not set),(not set),(not set),(not set),3,8.0,8.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),3,63.0,63.0
+add_to_cart,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,Google,,Bags,(not set),(not set),(not set),(not set),3,12.0,12.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),3,31.0,31.0
+view_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),,(not set),(not set),(not set),(not set),3,63.0,63.0
+add_to_cart,9181149,Gift Card - $25.00,,,,(not set),(not set),Not available in demo dataset,(not set),3,31.0,31.0
+view_item,GGOEGBTQ126133,Google Large White Gift Bag 5/PK,Google,(not set),Bags,(not set),(not set),Not available in demo dataset,(not set),2,12.0,12.0
+select_item,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),2,31.0,31.0
+view_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),,(not set),(not set),(not set),(not set),2,125.0,125.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Lifestyle,(not set),(not set),(not set),(not set),2,8.0,8.0
+select_item,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),2,13.0,13.0
+view_item,GGOEGGCX092599,Gift Card - $10.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),2,13.0,13.0
+select_item,GGOEGGCX056299,Gift Card - $25.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),2,31.0,31.0
+select_item,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),2,313.0,313.0
+begin_checkout,9184745,Gift Card - $10.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),2,10.0,10.0
+select_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),Home/Gift Cards/,(not set),(not set),(not set),(not set),2,125.0,125.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),2,63.0,63.0
+add_to_cart,9196267,Google Small White Gift Bag 5/PK,Google,,,(not set),(not set),(not set),(not set),2,8.0,8.0
+select_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,(not set),,(not set),(not set),Not available in demo dataset,(not set),1,8.0,8.0
+add_to_cart,9181151,Gift Card - $50.00,,,,(not set),(not set),(not set),(not set),1,63.0,63.0
+select_item,9181149,Gift Card - $25.00,,,,(not set),(not set),(not set),(not set),1,31.0,31.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,,Bags,(not set),(not set),(not set),(not set),1,8.0,8.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),1,63.0,63.0
+add_to_cart,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,(not set),(not set),Google,(not set),(not set),(not set),(not set),1,8.0,8.0
+add_to_cart,9196267,Google Small White Gift Bag 5/PK,Google,,,(not set),(not set),Not available in demo dataset,(not set),1,8.0,8.0
+add_to_cart,GGOEGGCX092599,Gift Card - $10.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,13.0,13.0
+add_to_cart,GGOEGGCX056399,Gift Card - $250.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,313.0,313.0
+select_item,GGOEGGCX092599,Gift Card - $10.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),1,13.0,13.0
+purchase,9181151,Gift Card - $50.00,,Single Option Only,Gift Cards,(not set),(not set),(not set),(not set),1,50.0,50.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),,(not set),(not set),(not set),(not set),1,63.0,63.0
+view_item,GGOEGGCX056299,Gift Card - $25.00,,,Home/Gift Cards/,(not set),(not set),(not set),(not set),1,31.0,31.0
+add_to_cart,9181151,Gift Card - $50.00,,,Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,63.0,63.0
+add_to_cart,GGOEGGCX056499,Gift Card - $50.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,63.0,63.0
+view_item,GGOEGBTQ126033,Google Small White Gift Bag 5/PK,Google,,Bags,(not set),(not set),Not available in demo dataset,(not set),1,8.0,8.0
+select_item,GGOEGGCX056299,Gift Card - $25.00,,,Home/Gift Cards/,(not set),(not set),(not set),(not set),1,31.0,31.0
+purchase,9181149,Gift Card - $25.00,,Single Option Only,,(not set),(not set),(not set),(not set),1,25.0,25.0
+select_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,125.0,125.0
+add_to_cart,GGOEGGCX056299,Gift Card - $25.00,(not set),(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,31.0,31.0
+select_item,GGOEGGCX056499,Gift Card - $50.00,,(not set),Home/Gift Cards/,(not set),(not set),Not available in demo dataset,(not set),1,63.0,63.0
+select_item,GGOEGGCX056199,Gift Card- $100.00,,(not set),,(not set),(not set),Not available in demo dataset,(not set),1,125.0,125.0

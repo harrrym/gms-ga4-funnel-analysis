@@ -1,0 +1,9 @@
+﻿period,returning_session,sessions,click_id_sessions,utm_sessions,click_id_purchase_sessions,purchase_sessions
+1 기준선,False,46324,0,0,0,445
+1 기준선,True,18927,0,0,0,792
+2 선행,False,19099,0,0,0,163
+2 선행,True,7437,0,0,0,329
+3 하락,False,64775,0,0,0,242
+3 하락,True,17609,0,0,0,374
+4 회복기,False,58013,0,0,0,322
+4 회복기,True,19561,0,1,0,564

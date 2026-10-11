@@ -1,0 +1,40 @@
+﻿kind,k1,k2,n
+list_name,view_item,(not set),938920
+list_name,view_item,Not available in demo dataset,396227
+weekly_qty_event,2021-01-25,events_with_qty_item,1816
+weekly_qty_event,2020-11-16,events_with_qty_item,1435
+weekly_qty_event,2020-11-30,events_with_qty_item,8512
+weekly_qty_event,2020-12-21,events_with_qty_item,2329
+weekly_qty_event,2020-12-28,events_with_qty_item,1311
+weekly_qty_event,2020-11-23,events_with_qty_item,3990
+list_name,begin_checkout,(not set),29528
+list_name,begin_checkout,Not available in demo dataset,21507
+weekly_qty_event,2021-01-04,events_total,3454
+weekly_qty_event,2021-01-11,events_total,3861
+weekly_qty_event,2021-01-18,events_with_qty_item,2155
+weekly_qty_event,2020-12-07,events_with_qty_item,6911
+path_vs_item_category,/Google+Redesign/Apparel/Mens,Home/Apparel/Men's / Unisex/,205938
+path_vs_item_category,/Google+Redesign/Clearance,Home/Sale/,151510
+weekly_qty_event,2020-12-28,events_total,2861
+weekly_qty_event,2020-12-21,events_total,4843
+weekly_qty_event,2020-11-23,events_total,4460
+weekly_qty_event,2021-01-18,events_total,4190
+weekly_qty_event,2020-12-07,events_total,10884
+list_name,purchase,Not available in demo dataset,4480
+list_name,purchase,(not set),2996
+weekly_qty_event,2021-01-25,events_total,3189
+weekly_qty_event,2020-11-16,events_total,1443
+weekly_qty_event,2020-11-30,events_total,9585
+list_name,add_to_cart,(not set),342803
+list_name,add_to_cart,Not available in demo dataset,118601
+weekly_qty_event,2020-12-14,events_with_qty_item,5116
+weekly_qty_event,2021-01-11,events_with_qty_item,1950
+weekly_qty_event,2021-01-04,events_with_qty_item,1729
+weekly_qty_event,2020-12-14,events_total,9769
+path_vs_item_category,/Google+Redesign/Apparel/Mens,Men's / Unisex,7757
+path_vs_item_category,/Google+Redesign/Clearance,(not set),1
+path_vs_item_category,/Google+Redesign/Apparel/Mens,(not set),1
+path_vs_item_category,/Google+Redesign/Apparel/Hats,Home/Apparel/Hats/,48984
+path_vs_item_category,/Google+Redesign/Stationery/Notebooks,Home/Stationery/Notebooks/,23961
+path_vs_item_category,/Google+Redesign/Stationery/Notebooks,Notebooks,651
+path_vs_item_category,/Google+Redesign/Clearance,Sale,10621

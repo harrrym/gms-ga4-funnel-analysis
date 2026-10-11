@@ -1,0 +1,40 @@
+-- 목적: "담기 기록 없이 결제시작까지 간 유저" 비율을 평상시 vs 하락구간으로 비교.
+-- 기준: 해당 유저의 그 기간 첫 begin_checkout 이벤트, 그 유저가 전체 관측기간 중 add_to_cart를
+-- 한 번도 한 적이 없으면 "담기 없음"으로 센다.
+
+WITH first_checkout_event AS (
+  SELECT
+    user_pseudo_id,
+    PARSE_DATE('%Y%m%d', event_date) AS first_checkout_date
+  FROM `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+  WHERE _TABLE_SUFFIX BETWEEN '20201101' AND '20210131'
+    AND event_name = 'begin_checkout'
+  QUALIFY ROW_NUMBER() OVER (PARTITION BY user_pseudo_id ORDER BY event_timestamp ASC) = 1
+),
+any_cart AS (
+  SELECT DISTINCT user_pseudo_id
+  FROM `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+  WHERE _TABLE_SUFFIX BETWEEN '20201101' AND '20210131'
+    AND event_name = 'add_to_cart'
+),
+labeled AS (
+  SELECT
+    fc.user_pseudo_id,
+    CASE
+      WHEN fc.first_checkout_date BETWEEN '2020-12-14' AND '2021-01-11' THEN '하락구간'
+      WHEN fc.first_checkout_date BETWEEN '2020-11-23' AND '2020-11-30' THEN '블프구간'
+      WHEN fc.first_checkout_date < '2020-12-14' THEN '평상시'
+      ELSE '사후구간'
+    END AS period,
+    CASE WHEN ac.user_pseudo_id IS NULL THEN 1 ELSE 0 END AS no_cart_ever
+  FROM first_checkout_event fc
+  LEFT JOIN any_cart ac ON ac.user_pseudo_id = fc.user_pseudo_id
+)
+SELECT
+  period,
+  COUNT(*) AS checkout_users,
+  SUM(no_cart_ever) AS no_cart_users,
+  ROUND(SAFE_DIVIDE(SUM(no_cart_ever), COUNT(*)) * 100, 2) AS no_cart_pct
+FROM labeled
+GROUP BY period
+ORDER BY period

@@ -1,0 +1,2 @@
+﻿dup_txn_ids,same_session,identical_timestamp,gap_1_to_10s,gap_10_to_60s,gap_1min_to_1h,gap_over_1h,median_gap_sec,max_gap_sec
+314,314,0,274,16,24,0,0.0,1692.7
