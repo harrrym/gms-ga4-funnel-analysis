@@ -1,4 +1,4 @@
-# 구글 머천다이즈 스토어 연말 구매전환율 하락 분석
+# Google Merchandise Store 연말 구매전환율 하락 분석
 
 > 연말 구매전환율 60% 하락의 핵심은 "목록까지 와서 장바구니에 담지 않은 것"이었고, 원인은 선물 시즌 종료로 인한 구매 의도 감소로 좁혀짐. 이탈 사용자를 다시 불러오는 리마인드 실험을 설계함.
 
@@ -6,7 +6,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 데이터 | BigQuery 공개 데이터셋 `ga4_obfuscated_sample_ecommerce` (구글 머천다이즈 스토어), 2020.11~2021.01 |
+| 데이터 | BigQuery 공개 데이터셋 `ga4_obfuscated_sample_ecommerce` (Google Merchandise Store), 2020.11~2021.01 |
 | 도구 | BigQuery SQL, Python, Claude Code |
 | 핵심 지표 | 구매전환율 = 구매 세션 / 전체 세션 |
 
